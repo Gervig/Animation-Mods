@@ -17,7 +17,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: algaesoup.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/algaesoup.png}}:0..3@20"
                 }
             }
         },
@@ -37,7 +37,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: artichokedip.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/artichokedip.png}}:0..3@20"
                 }
             }
         },
@@ -57,7 +57,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: bacon.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/bacon.png}}:0..3@20"
                 }
             }
         },
@@ -77,7 +77,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: baconcheeseburger.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/baconcheeseburger.png}}:0..3@20"
                 }
             }
         },
@@ -97,7 +97,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: bakedfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/bakedfish.png}}:0..3@20"
                 }
             }
         },
@@ -117,7 +117,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: beanhotpot.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/beanhotpot.png}}:0..3@20"
                 }
             }
         },
@@ -137,7 +137,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: beer.png}}:0..23@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/beer.png}}:0..23@15"
                 }
             }
         },
@@ -157,7 +157,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: blackberrycobbler.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/blackberrycobbler.png}}:0..3@20"
                 }
             }
         },
@@ -177,7 +177,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: blueberrytart.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/blueberrytart.png}}:0..3@20"
                 }
             }
         },
@@ -197,7 +197,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: bruschetta.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/bruschetta.png}}:0..3@20"
                 }
             }
         },
@@ -217,7 +217,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: carpsurprise.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/carpsurprise.png}}:0..3@20"
                 }
             }
         },
@@ -237,7 +237,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: cheese.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/cheese.png}}:0..3@20"
                 }
             }
         },
@@ -257,7 +257,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: cheesecauliflower.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/cheesecauliflower.png}}:0..3@20"
                 }
             }
         },
@@ -277,7 +277,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: chowder.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/chowder.png}}:0..3@20"
                 }
             }
         },
@@ -297,7 +297,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: coffee.png}}:0..15@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/coffee.png}}:0..15@20"
                 }
             }
         },
@@ -317,7 +317,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: coffee1.png}}:0..15@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/coffee1.png}}:0..15@20"
                 }
             }
         },
@@ -337,7 +337,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: coffee2.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/coffee2.png}}:0..3@20"
                 }
             }
         },
@@ -357,7 +357,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: completebreakfast.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/completebreakfast.png}}:0..3@20"
                 }
             }
         },
@@ -377,7 +377,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: cowboydinner.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/cowboydinner.png}}:0..3@20"
                 }
             }
         },
@@ -397,7 +397,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: crabcakes.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/crabcakes.png}}:0..3@20"
                 }
             }
         },
@@ -417,7 +417,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: cranberrycandy.png}}:0..23@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/cranberrycandy.png}}:0..23@20"
                 }
             }
         },
@@ -437,7 +437,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: cranberrysauce.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/cranberrysauce.png}}:0..3@20"
                 }
             }
         },
@@ -457,7 +457,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: crispybass.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/crispybass.png}}:0..3@20"
                 }
             }
         },
@@ -477,7 +477,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: dishothesea.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/dishothesea.png}}:0..3@20"
                 }
             }
         },
@@ -497,7 +497,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: escargot.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/escargot.png}}:0..3@20"
                 }
             }
         },
@@ -517,7 +517,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: farmerslunch.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/farmerslunch.png}}:0..3@20"
                 }
             }
         },
@@ -537,7 +537,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: fiddleheadrisotto.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/fiddleheadrisotto.png}}:0..3@20"
                 }
             }
         },
@@ -557,7 +557,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: fishstew.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/fishstew.png}}:0..3@20"
                 }
             }
         },
@@ -577,7 +577,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: fishtaco.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/fishtaco.png}}:0..3@20"
                 }
             }
         },
@@ -597,7 +597,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: friedcalamari.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/friedcalamari.png}}:0..3@20"
                 }
             }
         },
@@ -617,7 +617,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: glazedham.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/glazedham.png}}:0..3@20"
                 }
             }
         },
@@ -637,7 +637,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: friedeel.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/friedeel.png}}:0..3@20"
                 }
             }
         },
@@ -657,7 +657,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: friedegg.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/friedegg.png}}:0..3@20"
                 }
             }
         },
@@ -677,7 +677,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: friedmushroom.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/friedmushroom.png}}:0..3@20"
                 }
             }
         },
@@ -697,7 +697,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: glazedyams.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/glazedyams.png}}:0..3@20"
                 }
             }
         },
@@ -717,7 +717,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: goatcheese.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/goatcheese.png}}:0..3@20"
                 }
             }
         },
@@ -737,7 +737,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: greentea.png}}:0..19@25"
+                    "SourceTexture": "{{InternalAssetKey: assets/greentea.png}}:0..19@25"
                 }
             }
         },
@@ -757,7 +757,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: greentea1.png}}:0..19@25"
+                    "SourceTexture": "{{InternalAssetKey: assets/greentea1.png}}:0..19@25"
                 }
             }
         },
@@ -777,7 +777,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: greentea2.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/greentea2.png}}:0..3@20"
                 }
             }
         },
@@ -797,7 +797,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: hashbrowns.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/hashbrowns.png}}:0..3@20"
                 }
             }
         },
@@ -817,7 +817,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: icecream.png}}:0..18@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/icecream.png}}:0..18@20"
                 }
             }
         },
@@ -837,7 +837,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: jojacola.png}}:0..7@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/jojacola.png}}:0..7@20"
                 }
             }
         },
@@ -857,7 +857,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: lifeelixir.png}}:0..3@24"
+                    "SourceTexture": "{{InternalAssetKey: assets/lifeelixir.png}}:0..3@24"
                 }
             }
         },
@@ -877,7 +877,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: lobsterbisque.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/lobsterbisque.png}}:0..3@20"
                 }
             }
         },
@@ -897,7 +897,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: luckylunch.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/luckylunch.png}}:0..3@20"
                 }
             }
         },
@@ -917,7 +917,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: magicrockcandy1.png}}:0..4@25"
+                    "SourceTexture": "{{InternalAssetKey: assets/magicrockcandy1.png}}:0..4@25"
                 }
             }
         },
@@ -937,7 +937,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: magicrockcandy2.png}}:0..11@30"
+                    "SourceTexture": "{{InternalAssetKey: assets/magicrockcandy2.png}}:0..11@30"
                 }
             }
         },
@@ -957,7 +957,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: maplebar.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/maplebar.png}}:0..3@20"
                 }
             }
         },
@@ -977,7 +977,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: mead.png}}:0..9@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/mead.png}}:0..9@10"
                 }
             }
         },
@@ -997,7 +997,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: meatloaf.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/meatloaf.png}}:0..3@20"
                 }
             }
         },
@@ -1017,7 +1017,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: minerstreat.png}}:0..11@60"
+                    "SourceTexture": "{{InternalAssetKey: assets/minerstreat.png}}:0..11@60"
                 }
             }
         },
@@ -1037,7 +1037,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: montecristo.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/montecristo.png}}:0..3@20"
                 }
             }
         },
@@ -1057,7 +1057,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: oil.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/oil.png}}:0..11@10"
                 }
             }
         },
@@ -1077,7 +1077,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: oilofgarlic.png}}:0..37@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/oilofgarlic.png}}:0..37@15"
                 }
             }
         },
@@ -1097,7 +1097,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: omelet.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/omelet.png}}:0..3@20"
                 }
             }
         },
@@ -1117,7 +1117,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: orangechicken.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/orangechicken.png}}:0..3@20"
                 }
             }
         },
@@ -1137,7 +1137,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: paleale.png}}:0..7@30"
+                    "SourceTexture": "{{InternalAssetKey: assets/paleale.png}}:0..7@30"
                 }
             }
         },
@@ -1157,7 +1157,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: palebroth.png}}:0..15@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/palebroth.png}}:0..15@20"
                 }
             }
         },
@@ -1177,7 +1177,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: pancakes.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/pancakes.png}}:0..3@20"
                 }
             }
         },
@@ -1197,7 +1197,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: parsnipsoup.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/parsnipsoup.png}}:0..3@20"
                 }
             }
         },
@@ -1217,7 +1217,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: pepperpoppers.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/pepperpoppers.png}}:0..3@20"
                 }
             }
         },
@@ -1237,7 +1237,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: pizza1.png}}:0..7@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/pizza1.png}}:0..7@20"
                 }
             }
         },
@@ -1257,7 +1257,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: pizza2.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/pizza2.png}}:0..3@20"
                 }
             }
         },
@@ -1277,7 +1277,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: plumpudding.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/plumpudding.png}}:0..3@20"
                 }
             }
         },
@@ -1297,7 +1297,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: poppyseedmuffin.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/poppyseedmuffin.png}}:0..3@20"
                 }
             }
         },
@@ -1317,7 +1317,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: pumpkinpie.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/pumpkinpie.png}}:0..3@20"
                 }
             }
         },
@@ -1337,7 +1337,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: rabbitauvin.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/rabbitauvin.png}}:0..3@20"
                 }
             }
         },
@@ -1357,7 +1357,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: rabbitstew.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/rabbitstew.png}}:0..3@20"
                 }
             }
         },
@@ -1377,7 +1377,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: pumpkinsoup.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/pumpkinsoup.png}}:0..3@20"
                 }
             }
         },
@@ -1397,7 +1397,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: rhubarbpie.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/rhubarbpie.png}}:0..3@20"
                 }
             }
         },
@@ -1417,7 +1417,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: roastduck.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/roastduck.png}}:0..3@20"
                 }
             }
         },
@@ -1437,7 +1437,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: roastedhazelnuts.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/roastedhazelnuts.png}}:0..3@20"
                 }
             }
         },
@@ -1457,7 +1457,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: rootsplatter.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/rootsplatter.png}}:0..3@20"
                 }
             }
         },
@@ -1477,7 +1477,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: salmondinner.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/salmondinner.png}}:0..3@20"
                 }
             }
         },
@@ -1497,7 +1497,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: seafoampudding.png}}:0..11@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/seafoampudding.png}}:0..11@20"
                 }
             }
         },
@@ -1517,7 +1517,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: spaghetti.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/spaghetti.png}}:0..3@20"
                 }
             }
         },
@@ -1537,7 +1537,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: spicyeel.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/spicyeel.png}}:0..3@20"
                 }
             }
         },
@@ -1557,7 +1557,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: steakfajitas.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/steakfajitas.png}}:0..3@20"
                 }
             }
         },
@@ -1577,7 +1577,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: steakwithmushrooms.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/steakwithmushrooms.png}}:0..3@20"
                 }
             }
         },
@@ -1597,7 +1597,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: stirfry.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/stirfry.png}}:0..3@20"
                 }
             }
         },
@@ -1617,7 +1617,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: strangebun.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/strangebun.png}}:0..3@20"
                 }
             }
         },
@@ -1637,7 +1637,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: stuffing.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/stuffing.png}}:0..3@20"
                 }
             }
         },
@@ -1657,7 +1657,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: sweetandsourpork.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/sweetandsourpork.png}}:0..3@20"
                 }
             }
         },
@@ -1677,7 +1677,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: tomkhasoup.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/tomkhasoup.png}}:0..3@20"
                 }
             }
         },
@@ -1697,7 +1697,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: tortilla.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/tortilla.png}}:0..3@20"
                 }
             }
         },
@@ -1717,7 +1717,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: tripleshotespresso.png}}:0..17@23"
+                    "SourceTexture": "{{InternalAssetKey: assets/tripleshotespresso.png}}:0..17@23"
                 }
             }
         },
@@ -1737,7 +1737,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: tripleshotespresso1.png}}:0..17@23"
+                    "SourceTexture": "{{InternalAssetKey: assets/tripleshotespresso1.png}}:0..17@23"
                 }
             }
         },
@@ -1757,7 +1757,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: tripleshotespresso2.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/tripleshotespresso2.png}}:0..3@20"
                 }
             }
         },
@@ -1777,7 +1777,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: troutsoup.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/troutsoup.png}}:0..3@20"
                 }
             }
         },
@@ -1797,7 +1797,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: truffleoil.png}}:0..7@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/truffleoil.png}}:0..7@20"
                 }
             }
         },
@@ -1817,7 +1817,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: vegetablemedley.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/vegetablemedley.png}}:0..3@20"
                 }
             }
         },
@@ -1837,7 +1837,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: winterduck.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/winterduck.png}}:0..3@20"
                 }
             }
         }
