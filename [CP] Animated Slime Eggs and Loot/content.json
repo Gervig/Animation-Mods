@@ -1,7 +1,6 @@
 {
-	"Format": "1.17",
-	
-			"ConfigSchema": 
+	"$schema": "https://smapi.io/schemas/content-patcher.json",
+		"ConfigSchema":
 		{
 			"ArcticShard":
 				{
