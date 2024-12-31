@@ -1,5 +1,5 @@
 {
-    "Format": "2.0",
+    "$schema": "https://smapi.io/schemas/content-patcher.json",
     "Changes": [
         {
             "LogName": "Anchoviella",
