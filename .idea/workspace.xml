@@ -4,7 +4,74 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="930e9ece-4737-4f71-936b-6c88eb014fb2" name="Changes" comment="" />
+    <list default="true" id="930e9ece-4737-4f71-936b-6c88eb014fb2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/1000yearsfromnow.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/1000yearsfromnow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/anightoneco-hill.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/anightoneco-hill.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/bobostatue.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/bobostatue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/burntoffering.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/burntoffering.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/candytable.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/candytable.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/chickenstatue.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/chickenstatue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/christmastree1.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/christmastree1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/christmastree2.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/christmastree2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/clouds.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/clouds.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/crystalchair1.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/crystalchair1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/crystalchair2.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/crystalchair2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/crystalchair3.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/crystalchair3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/dancinggrass.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/dancinggrass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/deluxetree.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/deluxetree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/endlessfortune.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/endlessfortune.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/exotictree.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/exotictree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/fishbowl.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/fishbowl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/globe.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/globe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/goldlewis.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/goldlewis.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/greenserpentstatue.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/greenserpentstatue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/highway89.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/highway89.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/industrialpipe.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/industrialpipe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/jackolantern.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/jackolantern.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/jadehills.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/jadehills.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/jojacolalight.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/jojacolalight.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/junimoplush.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/junimoplush.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/kitemaster95.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/kitemaster95.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/l.lightstring.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/l.lightstring.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/landofclay.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/landofclay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/lg.futanbear.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/lg.futanbear.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/modelship.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/modelship.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/obsidianvase.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/obsidianvase.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/patchworkrug1.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/patchworkrug1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/patchworkrug2.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/patchworkrug2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/patchworkrug3.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/patchworkrug3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/patchworkrug4.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/patchworkrug4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/perfection.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/perfection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/pirateflag.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/pirateflag.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/plushbunny.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/plushbunny.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/portraitofamermaid.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/portraitofamermaid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/primalmotion.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/primalmotion.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/purpleserpentstatue.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/purpleserpentstatue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/puzzletable.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/puzzletable.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/queenofthegemsea.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/queenofthegemsea.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/redeagle.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/redeagle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/signofthevessel.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/signofthevessel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/singingstone.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/singingstone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/smallcrystal.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/smallcrystal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/smalljunimoplushblue.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/smalljunimoplushblue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/smalljunimoplushgreen.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/smalljunimoplushgreen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/smalljunimoplushpink.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/smalljunimoplushpink.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/smalljunimoplushyellow.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/smalljunimoplushyellow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/smallwallpumpkin.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/smallwallpumpkin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/solarkingdom.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/solarkingdom.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/standinggeode.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/standinggeode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/stardewherotrophy.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/stardewherotrophy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/stonejunimo.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/stonejunimo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/theserpent.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/theserpent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/threetrees.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/threetrees.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/tropicalfish#137.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/tropicalfish#137.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/wallpumpkin.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/wallpumpkin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/assets/wumbusstatue.png" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/assets/wumbusstatue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/content.json" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/content.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[CP-A] Animated Furniture and Stuff/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/[CP] Animated Furniture and Stuff/manifest.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,23 +89,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/gervi/OneDrive/Skrivebord/Junk/stardew/SDV Mod Projects/GitHub/Animation-Mods",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gervi/OneDrive/Skrivebord/Junk/stardew/SDV Mod Projects/GitHub/Animation-Mods&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gervi\OneDrive\Skrivebord\Junk\stardew\SDV Mod Projects\GitHub\Animation-Mods\[CP-A] Animated Furniture and Stuff\assets" />
+      <recent name="C:\Users\gervi\OneDrive\Skrivebord\Junk\stardew\SDV Mod Projects\GitHub\Animation-Mods" />
       <recent name="C:\Users\gervi\OneDrive\Skrivebord\Junk\stardew\SDV Mod Projects\GitHub\Animation-Mods\[CP] Animated Fish\assets" />
     </key>
   </component>
