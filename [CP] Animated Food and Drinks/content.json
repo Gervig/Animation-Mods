@@ -1,5 +1,560 @@
 {
     "$schema": "https://smapi.io/schemas/content-patcher.json",
+    "ConfigSchema":
+    {
+        "AlgaeSoup":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "ArtichokeDip":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Bacon":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "BaconCheeseburger":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "BakedFish":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "BeanHotpot":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Beer":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "BlackberryCobbler":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "BlueberryTart":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Bruschetta":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "CarpSurprise":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Cheese":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "CheeseCauliflower":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Chowder":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Coffee":
+        {
+            "AllowValues": "true,false",
+            "Default": "false",
+            "AllowMultiple": "false"
+        },
+        "Coffee1":
+        {
+            "AllowValues": "true,false",
+            "Default": "false",
+            "AllowMultiple": "false"
+        },
+        "Coffee2":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "CompleteBreakfast":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "CowboyDinner":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "CrabCakes":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "CranberryCandy":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "CranberrySauce":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "CrispyBass":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "DishOTheSea":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Escargot":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "FarmersLunch":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "FiddleheadRisotto":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "FishStew":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "FishTaco":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "FriedCalamari":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "FriedEel":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "FriedEgg":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "FriedMushroom":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "GlazedHam":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "GlazedYams":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "GoatCheese":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "GreenTea":
+        {
+            "AllowValues": "true,false",
+            "Default": "false",
+            "AllowMultiple": "false"
+        },
+        "GreenTea1":
+        {
+            "AllowValues": "true,false",
+            "Default": "false",
+            "AllowMultiple": "false"
+        },
+        "GreenTea2":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Hashbrowns":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "IceCream":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "JojaCola":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "LifeElixir":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "LobsterBisque":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "LuckyLunch":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "MagicRockCandy1":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "MagicRockCandy2":
+        {
+            "AllowValues": "true,false",
+            "Default": "false",
+            "AllowMultiple": "false"
+        },
+        "MapleBar":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Mead":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "MeatLoaf":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "MinersTreat":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "MonteCristo":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Oil":
+        {
+            "AllowValues": "true,false",
+            "Default": "false",
+            "AllowMultiple": "false"
+        },
+        "OilofGarlic":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Omelet":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "OrangeChicken":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "PaleAle":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "PaleBroth":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Pancakes":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "ParsnipSoup":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "PepperPoppers":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Pizza1":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Pizza2":
+        {
+            "AllowValues": "true,false",
+            "Default": "false",
+            "AllowMultiple": "false"
+        },
+        "PlumPudding":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "PoppyseedMuffin":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "PumpkinPie":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "PumpkinSoup":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "RabbitAuVin":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "RabbitStew":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "RhubarbPie":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "RoastDuck":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "RoastedHazelnuts":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "RootsPlatter":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "SalmonDinner":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "SeafoamPudding":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Spaghetti":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "SpicyEel":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "SteakFajitas":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "SteakWithMushrooms":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "StirFry":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "StrangeBun":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Stuffing":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "SweetAndSourPork":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "TomKhaSoup":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Tortilla":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "TripleShotEspresso":
+        {
+            "AllowValues": "true,false",
+            "Default": "false",
+            "AllowMultiple": "false"
+        },
+        "TripleShotEspresso1":
+        {
+            "AllowValues": "true,false",
+            "Default": "false",
+            "AllowMultiple": "false"
+        },
+        "TripleShotEspresso2":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "TroutSoup":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "TruffleOil":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "VegetableMedley":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "WinterDuck":
+        {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        }
+    },
     "Changes": [
         {
             "LogName": "Algae Soup",
