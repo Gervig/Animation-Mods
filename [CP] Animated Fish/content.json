@@ -1,5 +1,462 @@
 {
     "$schema": "https://smapi.io/schemas/content-patcher.json",
+    "ConfigSchema": {
+        "Albacore": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Anchovy": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Angler": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Blobfish1": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Blobfish2": {
+            "AllowValues": "true,false",
+            "Default": "false",
+            "AllowMultiple": "false"
+        },
+        "Blobfish3": {
+            "AllowValues": "true,false",
+            "Default": "false",
+            "AllowMultiple": "false"
+        },
+        "Bream": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "BrokenCD": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "BrokenGlasses": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Bullhead": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Carp": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Catfish": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Chub": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Clam": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Cockle": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Crab1": {
+            "AllowValues": "true,false",
+            "Default": "false",
+            "AllowMultiple": "false"
+        },
+        "Crab2": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Crayfish": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Crimsonfish": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Dorado": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Driftwood": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Eel": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Flounder": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Ghostfish1": {
+            "AllowValues": "true,false",
+            "Default": "false",
+            "AllowMultiple": "false"
+        },
+        "Ghostfish2": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Glacierfish": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "GreenAlgae": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Halibut": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Herring": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "IcePip": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "LargeMouthBass": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "LavaEel": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Legend": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Lingcod": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Lobster": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "MidnightCarp": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "MidnightSquid1": {
+            "AllowValues": "true,false",
+            "Default": "false",
+            "AllowMultiple": "false"
+        },
+        "MidnightSquid2": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Mussel": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "MutantCarp": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "NautilusShell": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Octopus": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Oyster": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Perch": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Periwinkle": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Pike": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Pufferfish": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "RainbowShell": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "RainbowTrout": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "RedMullet": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "RedSnapper": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "RottenPlant": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Salmon": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Sandfish": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Sardine": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "ScorpionCarp": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "SeaCucumber": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "SeaUrchin": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Seaweed": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Shad": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Shrimp": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Slimejack": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "SmallmouthBass": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "SoggyNewspaper": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Snail": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "SpookFish": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Squid": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Stonefish": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Sturgeon": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Sunfish": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "SuperCucumber": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "TigerTrout": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Tilapia": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Trash": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Tuna": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "VoidSalmon": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Walleye": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "WhiteAlgae": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Woodskip": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "SonOfCrimsonfish": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "MsAngler": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "LegendII": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "RadioactiveCarp": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "GlacierfishJr": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Stingray": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Lionfish": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "BlueDiscus": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "RiverJelly": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "CaveJelly": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "SeaJelly": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        },
+        "Goby": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": "false"
+        }
+    },
     "Changes": [
         {
             "LogName": "Albacore",
