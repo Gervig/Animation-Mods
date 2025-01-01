@@ -515,7 +515,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: aerinite.png}}:0..3@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/aerinite.png}}:0..3@10"
                 }
             }
         },
@@ -535,7 +535,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: alemite.png}}:0..3@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/alemite.png}}:0..3@10"
                 }
             }
         },
@@ -555,7 +555,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: amethyst.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/amethyst.png}}:0..11@10"
                 }
             }
         },
@@ -575,7 +575,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: amethystnode.png}}:0..19@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/amethystnode.png}}:0..19@10"
                 }
             }
         },
@@ -595,7 +595,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: aquamarine.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/aquamarine.png}}:0..11@10"
                 }
             }
         },
@@ -615,7 +615,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: aquamarinenode.png}}:0..19@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/aquamarinenode.png}}:0..19@10"
                 }
             }
         },
@@ -635,7 +635,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: artifacttrove.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/artifacttrove.png}}:0..11@10"
                 }
             }
         },
@@ -655,7 +655,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: baryte.png}}:0..5@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/baryte.png}}:0..5@15"
                 }
             }
         },
@@ -675,7 +675,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: basalt.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/basalt.png}}:0..3@20"
                 }
             }
         },
@@ -695,7 +695,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: bixite.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/bixite.png}}:0..11@10"
                 }
             }
         },
@@ -715,7 +715,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: calcite.png}}:0..3@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/calcite.png}}:0..3@10"
                 }
             }
         },
@@ -735,7 +735,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: celestine.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/celestine.png}}:0..3@20"
                 }
             }
         },
@@ -755,7 +755,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: cinder_shard.png}}:0..14@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/cinder_shard.png}}:0..14@10"
                 }
             }
         },
@@ -775,7 +775,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: cinder_shard_node1.png}}:0..14@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/cinder_shard_node1.png}}:0..14@10"
                 }
             }
         },
@@ -795,7 +795,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: cinder_shard_node2.png}}:0..14@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/cinder_shard_node2.png}}:0..14@10"
                 }
             }
         },
@@ -815,7 +815,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: copperbar.png}}:0..23@5"
+                    "SourceTexture": "{{InternalAssetKey: assets/copperbar.png}}:0..23@5"
                 }
             }
         },
@@ -835,7 +835,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: coppernode.png}}:0..14@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/coppernode.png}}:0..14@10"
                 }
             }
         },
@@ -855,7 +855,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: coppernode2.png}}:0..14@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/coppernode2.png}}:0..14@10"
                 }
             }
         },
@@ -875,7 +875,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: copperore.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/copperore.png}}:0..11@10"
                 }
             }
         },
@@ -895,7 +895,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: crystal1.png}}:0..21@5"
+                    "SourceTexture": "{{InternalAssetKey: assets/crystal1.png}}:0..21@5"
                 }
             }
         },
@@ -915,7 +915,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: crystal2.png}}:0..21@5"
+                    "SourceTexture": "{{InternalAssetKey: assets/crystal2.png}}:0..21@5"
                 }
             }
         },
@@ -935,7 +935,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: crystal3.png}}:0..21@5"
+                    "SourceTexture": "{{InternalAssetKey: assets/crystal3.png}}:0..21@5"
                 }
             }
         },
@@ -955,7 +955,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: diamond.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/diamond.png}}:0..11@10"
                 }
             }
         },
@@ -975,7 +975,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: diamondnode.png}}:0..14@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/diamondnode.png}}:0..14@10"
                 }
             }
         },
@@ -995,7 +995,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: dolomite.png}}:0..3@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/dolomite.png}}:0..3@10"
                 }
             }
         },
@@ -1015,7 +1015,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: dragon_tooth.png}}:0..19@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/dragon_tooth.png}}:0..19@15"
                 }
             }
         },
@@ -1035,7 +1035,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: earthcrystal.png}}:0..13@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/earthcrystal.png}}:0..13@10"
                 }
             }
         },
@@ -1055,7 +1055,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: emerald.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/emerald.png}}:0..11@10"
                 }
             }
         },
@@ -1075,7 +1075,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: emeraldnode.png}}:0..9@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/emeraldnode.png}}:0..9@10"
                 }
             }
         },
@@ -1095,7 +1095,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: esperite.png}}:0..3@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/esperite.png}}:0..3@15"
                 }
             }
         },
@@ -1115,7 +1115,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: fairystone.png}}:0..3@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/fairystone.png}}:0..3@15"
                 }
             }
         },
@@ -1135,7 +1135,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: fireopal.png}}:0..4@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/fireopal.png}}:0..4@15"
                 }
             }
         },
@@ -1155,7 +1155,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: firequartz.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/firequartz.png}}:0..11@10"
                 }
             }
         },
@@ -1175,7 +1175,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: fluorapatite.png}}:0..5@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/fluorapatite.png}}:0..5@10"
                 }
             }
         },
@@ -1195,7 +1195,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: frozengeode.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/frozengeode.png}}:0..11@10"
                 }
             }
         },
@@ -1215,7 +1215,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: frozengeodenode.png}}:0..23@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/frozengeodenode.png}}:0..23@10"
                 }
             }
         },
@@ -1235,7 +1235,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: frozentear.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/frozentear.png}}:0..11@10"
                 }
             }
         },
@@ -1255,7 +1255,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: geminite.png}}:0..4@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/geminite.png}}:0..4@10"
                 }
             }
         },
@@ -1275,7 +1275,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: gemnode.png}}:0..23@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/gemnode.png}}:0..23@10"
                 }
             }
         },
@@ -1295,7 +1295,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: geode.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/geode.png}}:0..11@10"
                 }
             }
         },
@@ -1315,7 +1315,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: geodenode.png}}:0..23@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/geodenode.png}}:0..23@10"
                 }
             }
         },
@@ -1335,7 +1335,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: ghostcrystal.png}}:0..3@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/ghostcrystal.png}}:0..3@10"
                 }
             }
         },
@@ -1355,7 +1355,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: goldbar.png}}:0..23@5"
+                    "SourceTexture": "{{InternalAssetKey: assets/goldbar.png}}:0..23@5"
                 }
             }
         },
@@ -1375,7 +1375,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: goldnode.png}}:0..9@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/goldnode.png}}:0..9@10"
                 }
             }
         },
@@ -1395,7 +1395,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: goldore.png}}:0..11@8"
+                    "SourceTexture": "{{InternalAssetKey: assets/goldore.png}}:0..11@8"
                 }
             }
         },
@@ -1415,7 +1415,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: Granite.png}}:0..3@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/Granite.png}}:0..3@15"
                 }
             }
         },
@@ -1435,7 +1435,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: helvite.png}}:0..5@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/helvite.png}}:0..5@15"
                 }
             }
         },
@@ -1455,7 +1455,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: hermatite.png}}:0..3@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/hermatite.png}}:0..3@15"
                 }
             }
         },
@@ -1475,7 +1475,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: iridiumbar.png}}:0..29@5"
+                    "SourceTexture": "{{InternalAssetKey: assets/iridiumbar.png}}:0..29@5"
                 }
             }
         },
@@ -1495,7 +1495,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: iridiumnode.png}}:0..9@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/iridiumnode.png}}:0..9@10"
                 }
             }
         },
@@ -1515,7 +1515,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: iridiumnode.png}}:0..9@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/iridiumnode.png}}:0..9@10"
                 }
             }
         },
@@ -1535,7 +1535,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: iridiumcrab1.png}}:0..9@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/iridiumcrab1.png}}:0..9@10"
                 }
             }
         },
@@ -1555,7 +1555,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: iridiumcrab2.png}}:0..9@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/iridiumcrab2.png}}:0..9@10"
                 }
             }
         },
@@ -1575,7 +1575,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: iridiumcrab3.png}}:0..9@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/iridiumcrab3.png}}:0..9@10"
                 }
             }
         },
@@ -1595,7 +1595,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: iridiumore.png}}:0..11@8"
+                    "SourceTexture": "{{InternalAssetKey: assets/iridiumore.png}}:0..11@8"
                 }
             }
         },
@@ -1615,7 +1615,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: ironbar.png}}:0..23@5"
+                    "SourceTexture": "{{InternalAssetKey: assets/ironbar.png}}:0..23@5"
                 }
             }
         },
@@ -1635,7 +1635,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: ironnode.png}}:0..9@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/ironnode.png}}:0..9@10"
                 }
             }
         },
@@ -1655,7 +1655,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: ironnode2.png}}:0..14@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/ironnode2.png}}:0..14@10"
                 }
             }
         },
@@ -1675,7 +1675,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: ironore.png}}:0..11@12"
+                    "SourceTexture": "{{InternalAssetKey: assets/ironore.png}}:0..11@12"
                 }
             }
         },
@@ -1695,7 +1695,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: jade.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/jade.png}}:0..11@10"
                 }
             }
         },
@@ -1715,7 +1715,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: jadenode.png}}:0..7@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/jadenode.png}}:0..7@10"
                 }
             }
         },
@@ -1735,7 +1735,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: jagoite.png}}:0..3@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/jagoite.png}}:0..3@15"
                 }
             }
         },
@@ -1755,7 +1755,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: jamborite.png}}:0..3@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/jamborite.png}}:0..3@15"
                 }
             }
         },
@@ -1775,7 +1775,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: jasper.png}}:0..3@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/jasper.png}}:0..3@15"
                 }
             }
         },
@@ -1795,7 +1795,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: kyanite.png}}:0..5@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/kyanite.png}}:0..5@15"
                 }
             }
         },
@@ -1815,7 +1815,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: lemonstone.png}}:0..3@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/lemonstone.png}}:0..3@15"
                 }
             }
         },
@@ -1835,7 +1835,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: limestone.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/limestone.png}}:0..3@20"
                 }
             }
         },
@@ -1855,7 +1855,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: lunarite.png}}:0..3@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/lunarite.png}}:0..3@15"
                 }
             }
         },
@@ -1875,7 +1875,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: magmageode.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/magmageode.png}}:0..11@10"
                 }
             }
         },
@@ -1895,7 +1895,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: magmageodenode.png}}:0..23@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/magmageodenode.png}}:0..23@10"
                 }
             }
         },
@@ -1915,7 +1915,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: malachite.png}}:0..3@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/malachite.png}}:0..3@15"
                 }
             }
         },
@@ -1935,7 +1935,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: Marble.png}}:0..3@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/Marble.png}}:0..3@15"
                 }
             }
         },
@@ -1955,7 +1955,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: meteorite.png}}:0..23@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/meteorite.png}}:0..23@10"
                 }
             }
         },
@@ -1975,7 +1975,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: mudstone.png}}:0..3@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/mudstone.png}}:0..3@15"
                 }
             }
         },
@@ -1995,7 +1995,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: mysticstone.png}}:0..22@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/mysticstone.png}}:0..22@10"
                 }
             }
         },
@@ -2015,7 +2015,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: nekoite.png}}:0..4@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/nekoite.png}}:0..4@15"
                 }
             }
         },
@@ -2035,7 +2035,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: neptunite.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/neptunite.png}}:0..3@20"
                 }
             }
         },
@@ -2055,7 +2055,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: obsidian.png}}:0..3@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/obsidian.png}}:0..3@15"
                 }
             }
         },
@@ -2075,7 +2075,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: oceanstone.png}}:0..3@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/oceanstone.png}}:0..3@10"
                 }
             }
         },
@@ -2095,7 +2095,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: omnigeode.png}}:0..11@24"
+                    "SourceTexture": "{{InternalAssetKey: assets/omnigeode.png}}:0..11@24"
                 }
             }
         },
@@ -2115,7 +2115,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: omni_geode_node.png}}:0..23@12"
+                    "SourceTexture": "{{InternalAssetKey: assets/omni_geode_node.png}}:0..23@12"
                 }
             }
         },
@@ -2135,7 +2135,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: opal.png}}:0..13@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/opal.png}}:0..13@10"
                 }
             }
         },
@@ -2155,7 +2155,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: orpiment.png}}:0..3@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/orpiment.png}}:0..3@10"
                 }
             }
         },
@@ -2175,7 +2175,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: petrifiedslime.png}}:0..3@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/petrifiedslime.png}}:0..3@15"
                 }
             }
         },
@@ -2195,7 +2195,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: prismaticshard.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/prismaticshard.png}}:0..11@10"
                 }
             }
         },
@@ -2215,7 +2215,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: prismaticshard2.png}}:0..24@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/prismaticshard2.png}}:0..24@10"
                 }
             }
         },
@@ -2235,7 +2235,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: prismaticshard3d.png}}:0..59@3"
+                    "SourceTexture": "{{InternalAssetKey: assets/prismaticshard3d.png}}:0..59@3"
                 }
             }
         },
@@ -2255,7 +2255,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: pyrite.png}}:0..3@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/pyrite.png}}:0..3@15"
                 }
             }
         },
@@ -2275,7 +2275,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: quartz.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/quartz.png}}:0..11@10"
                 }
             }
         },
@@ -2295,7 +2295,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: radioactive_ore.png}}:0..14@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/radioactive_ore.png}}:0..14@10"
                 }
             }
         },
@@ -2315,7 +2315,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: radioactive_node.png}}:0..14@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/radioactive_node.png}}:0..14@10"
                 }
             }
         },
@@ -2335,7 +2335,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: radioactive_bar.png}}:0..14@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/radioactive_bar.png}}:0..14@10"
                 }
             }
         },
@@ -2355,7 +2355,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: refinedquartz.png}}:0..23@5"
+                    "SourceTexture": "{{InternalAssetKey: assets/refinedquartz.png}}:0..23@5"
                 }
             }
         },
@@ -2375,7 +2375,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: ruby.png}}:0..13@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/ruby.png}}:0..13@10"
                 }
             }
         },
@@ -2395,7 +2395,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: rubynode.png}}:0..9@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/rubynode.png}}:0..9@10"
                 }
             }
         },
@@ -2415,7 +2415,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: sandstone.png}}:0..3@30"
+                    "SourceTexture": "{{InternalAssetKey: assets/sandstone.png}}:0..3@30"
                 }
             }
         },
@@ -2435,7 +2435,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: slate.png}}:0..3@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/slate.png}}:0..3@10"
                 }
             }
         },
@@ -2455,7 +2455,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: soapstone.png}}:0..3@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/soapstone.png}}:0..3@10"
                 }
             }
         },
@@ -2475,7 +2475,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: starshards.png}}:0..3@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/starshards.png}}:0..3@10"
                 }
             }
         },
@@ -2495,7 +2495,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: thunderegg.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/thunderegg.png}}:0..11@10"
                 }
             }
         },
@@ -2515,7 +2515,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: tigerseye.png}}:0..3@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/tigerseye.png}}:0..3@15"
                 }
             }
         },
@@ -2535,7 +2535,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: topaz.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/topaz.png}}:0..11@10"
                 }
             }
         },
@@ -2555,7 +2555,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: topaznode.png}}:0..9@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/topaznode.png}}:0..9@10"
                 }
             }
         }
