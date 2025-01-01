@@ -1,102 +1,103 @@
 {
+    "$schema": "https://smapi.io/schemas/content-patcher.json",
     "ConfigSchema": {
         "BladetailSturgeon": {
             "AllowValues": "new,old,disabled",
             "Default": "new",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "CapedTreeFrog": {
             "AllowValues": "new,old,disabled",
             "Default": "new",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "CardiaSeptalJellyfish": {
             "AllowValues": "new,old,disabled",
             "Default": "new",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "CrimsonSpikedClam": {
             "AllowValues": "new,old,disabled",
             "Default": "new",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "CutthroatTrout": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "DeepRidgeAngler": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "FairytaleLionfish": {
             "AllowValues": "new,old,disabled",
             "Default": "new",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "FixerEel": {
             "AllowValues": "new,old,disabled",
             "Default": "new",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "GoldenRoseFin": {
             "AllowValues": "new,old,disabled",
             "Default": "new",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "HarvesterTrout": {
             "AllowValues": "new,old,disabled",
             "Default": "new",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "LullabyCarp": {
             "AllowValues": "new,old,disabled",
             "Default": "new",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "MountainRedbellyDace": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "MountainWhitefish": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PebbleBackCrab": {
             "AllowValues": "new,old,disabled",
             "Default": "new",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "RidgeBluegill": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "RidgesideBass": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "SkulpinFish": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "SockeyeSalmon": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "WaterfallSnakehead": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         }
     },
-    "Format": "2.0",
+    "Format": "2.4.0",
     "Changes": [
         {
             "LogName": "Bladetail Sturgeon Old",
