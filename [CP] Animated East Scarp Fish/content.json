@@ -75,7 +75,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: cerulean_nudibranch.png}}:0..3@30"
+                    "SourceTexture": "{{InternalAssetKey: assets/cerulean_nudibranch.png}}:0..3@30"
                 }
             }
         },
@@ -95,7 +95,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: fairy_betta.png}}:0..5@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/fairy_betta.png}}:0..5@20"
                 }
             }
         },
@@ -115,7 +115,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: golden_trout.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/golden_trout.png}}:0..3@20"
                 }
             }
         },
@@ -135,7 +135,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: king_carp.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/king_carp.png}}:0..3@20"
                 }
             }
         },
@@ -155,7 +155,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: kokanee_salmon.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/kokanee_salmon.png}}:0..3@20"
                 }
             }
         },
@@ -175,7 +175,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: ornate_nudibranch.png}}:0..3@30"
+                    "SourceTexture": "{{InternalAssetKey: assets/ornate_nudibranch.png}}:0..3@30"
                 }
             }
         },
@@ -195,7 +195,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: obsidian_maw.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/obsidian_maw.png}}:0..3@20"
                 }
             }
         },
@@ -215,7 +215,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: red_herring.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/red_herring.png}}:0..3@20"
                 }
             }
         },
@@ -235,7 +235,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: sea_bunny_nudibranch.png}}:0..3@30"
+                    "SourceTexture": "{{InternalAssetKey: assets/sea_bunny_nudibranch.png}}:0..3@30"
                 }
             }
         },
@@ -255,7 +255,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: slime_barbel.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/slime_barbel.png}}:0..3@20"
                 }
             }
         },
@@ -275,7 +275,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: sunset_nudibranch.png}}:0..3@30"
+                    "SourceTexture": "{{InternalAssetKey: assets/sunset_nudibranch.png}}:0..3@30"
                 }
             }
         }
