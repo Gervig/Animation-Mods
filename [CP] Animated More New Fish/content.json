@@ -720,7 +720,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: anchoviella.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/anchoviella.png}}:0..3@20"
                 }
             }
         },
@@ -740,7 +740,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: arcticchar.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/arcticchar.png}}:0..3@20"
                 }
             }
         },
@@ -760,7 +760,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: arowana.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/arowana.png}}:0..3@20"
                 }
             }
         },
@@ -780,7 +780,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: bandedangelfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/bandedangelfish.png}}:0..3@20"
                 }
             }
         },
@@ -800,7 +800,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: barracuda.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/barracuda.png}}:0..3@20"
                 }
             }
         },
@@ -820,7 +820,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: barreleye.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/barreleye.png}}:0..3@20"
                 }
             }
         },
@@ -840,7 +840,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: blackghostknifefish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/blackghostknifefish.png}}:0..3@20"
                 }
             }
         },
@@ -860,7 +860,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: blinky.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/blinky.png}}:0..3@20"
                 }
             }
         },
@@ -880,7 +880,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: bluedragonslug.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/bluedragonslug.png}}:0..3@20"
                 }
             }
         },
@@ -900,7 +900,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: bluefreshwatershrimp.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/bluefreshwatershrimp.png}}:0..3@20"
                 }
             }
         },
@@ -920,7 +920,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: blueringedoctopus.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/blueringedoctopus.png}}:0..3@20"
                 }
             }
         },
@@ -940,7 +940,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: bluestarfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/bluestarfish.png}}:0..3@20"
                 }
             }
         },
@@ -960,7 +960,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: bluetang.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/bluetang.png}}:0..3@20"
                 }
             }
         },
@@ -980,7 +980,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: bonnethead.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/bonnethead.png}}:0..3@20"
                 }
             }
         },
@@ -1000,7 +1000,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: bonnetheadpup1.png}}:0..7@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/bonnetheadpup1.png}}:0..7@20"
                 }
             }
         },
@@ -1020,7 +1020,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: bonnetheadpup2.png}}:0..7@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/bonnetheadpup2.png}}:0..7@20"
                 }
             }
         },
@@ -1040,7 +1040,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: brainslug.png}}:0..7@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/brainslug.png}}:0..7@10"
                 }
             }
         },
@@ -1060,7 +1060,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: briefsquid.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/briefsquid.png}}:0..3@20"
                 }
             }
         },
@@ -1080,7 +1080,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: cavefish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/cavefish.png}}:0..3@20"
                 }
             }
         },
@@ -1100,7 +1100,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: cavelobster.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/cavelobster.png}}:0..3@20"
                 }
             }
         },
@@ -1120,7 +1120,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: celestialeye.png}}:0..7@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/celestialeye.png}}:0..7@10"
                 }
             }
         },
@@ -1140,7 +1140,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: clownknifefish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/clownknifefish.png}}:0..3@20"
                 }
             }
         },
@@ -1160,7 +1160,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: clownloach.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/clownloach.png}}:0..3@20"
                 }
             }
         },
@@ -1180,7 +1180,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: clowntriggerfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/clowntriggerfish.png}}:0..3@20"
                 }
             }
         },
@@ -1200,7 +1200,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: coelacanth.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/coelacanth.png}}:0..3@20"
                 }
             }
         },
@@ -1220,7 +1220,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: comet.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/comet.png}}:0..3@20"
                 }
             }
         },
@@ -1240,7 +1240,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: commonpleco.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/commonpleco.png}}:0..3@20"
                 }
             }
         },
@@ -1260,7 +1260,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: conger.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/conger.png}}:0..3@20"
                 }
             }
         },
@@ -1280,7 +1280,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: crownofthornsstarfish.png}}:0..8@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/crownofthornsstarfish.png}}:0..8@20"
                 }
             }
         },
@@ -1300,7 +1300,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: cyclopsshark.png}}:0..15@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/cyclopsshark.png}}:0..15@15"
                 }
             }
         },
@@ -1320,7 +1320,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: decapod.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/decapod.png}}:0..3@20"
                 }
             }
         },
@@ -1340,7 +1340,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: dumbooctopus.png}}:0..7@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/dumbooctopus.png}}:0..7@20"
                 }
             }
         },
@@ -1360,7 +1360,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: dwarfstingray.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/dwarfstingray.png}}:0..3@20"
                 }
             }
         },
@@ -1380,7 +1380,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: dwarfstingraypup.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/dwarfstingraypup.png}}:0..3@20"
                 }
             }
         },
@@ -1400,7 +1400,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: electriccatfish.png}}:0..7@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/electriccatfish.png}}:0..7@10"
                 }
             }
         },
@@ -1420,7 +1420,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: elephantfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/elephantfish.png}}:0..3@20"
                 }
             }
         },
@@ -1440,7 +1440,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: falsekelpfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/falsekelpfish.png}}:0..3@20"
                 }
             }
         },
@@ -1460,7 +1460,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: fireclownfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/fireclownfish.png}}:0..3@20"
                 }
             }
         },
@@ -1480,7 +1480,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: flameangelfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/flameangelfish.png}}:0..3@20"
                 }
             }
         },
@@ -1500,7 +1500,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: freshwaterbutterflyfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/freshwaterbutterflyfish.png}}:0..3@20"
                 }
             }
         },
@@ -1520,7 +1520,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: freshwatercrab.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/freshwatercrab.png}}:0..3@20"
                 }
             }
         },
@@ -1540,7 +1540,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: freshwaterpufferfish.png}}:0..18@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/freshwaterpufferfish.png}}:0..18@20"
                 }
             }
         },
@@ -1560,7 +1560,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: freshwatershrimp.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/freshwatershrimp.png}}:0..3@20"
                 }
             }
         },
@@ -1580,7 +1580,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: frilledshark.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/frilledshark.png}}:0..3@20"
                 }
             }
         },
@@ -1600,7 +1600,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: ghosteel1.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/ghosteel1.png}}:0..3@20"
                 }
             }
         },
@@ -1620,7 +1620,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: ghosteel2.png}}:0..7@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/ghosteel2.png}}:0..7@20"
                 }
             }
         },
@@ -1640,7 +1640,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: ghostkoi.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/ghostkoi.png}}:0..3@20"
                 }
             }
         },
@@ -1660,7 +1660,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: glassfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/glassfish.png}}:0..3@20"
                 }
             }
         },
@@ -1680,7 +1680,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: goblinsharkpup.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/goblinsharkpup.png}}:0..3@20"
                 }
             }
         },
@@ -1700,7 +1700,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: goldfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/goldfish.png}}:0..3@20"
                 }
             }
         },
@@ -1720,7 +1720,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: greatfireflysquid.png}}:0..10@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/greatfireflysquid.png}}:0..10@10"
                 }
             }
         },
@@ -1740,7 +1740,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: greenterror.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/greenterror.png}}:0..3@20"
                 }
             }
         },
@@ -1760,7 +1760,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: haddock.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/haddock.png}}:0..3@20"
                 }
             }
         },
@@ -1780,7 +1780,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: hagfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/hagfish.png}}:0..3@20"
                 }
             }
         },
@@ -1800,7 +1800,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: harlequinfreshwatershrimp.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/harlequinfreshwatershrimp.png}}:0..3@20"
                 }
             }
         },
@@ -1820,7 +1820,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: hiutsurikoi.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/hiutsurikoi.png}}:0..3@20"
                 }
             }
         },
@@ -1840,7 +1840,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: holygrenadestarfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/holygrenadestarfish.png}}:0..3@20"
                 }
             }
         },
@@ -1860,7 +1860,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: icefish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/icefish.png}}:0..3@20"
                 }
             }
         },
@@ -1880,7 +1880,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: ide.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/ide.png}}:0..3@20"
                 }
             }
         },
@@ -1900,7 +1900,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: jellyfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/jellyfish.png}}:0..3@20"
                 }
             }
         },
@@ -1920,7 +1920,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: kingcrab.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/kingcrab.png}}:0..3@20"
                 }
             }
         },
@@ -1940,7 +1940,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: kiutsurikoi.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/kiutsurikoi.png}}:0..3@20"
                 }
             }
         },
@@ -1960,7 +1960,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: kohakukoi.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/kohakukoi.png}}:0..3@20"
                 }
             }
         },
@@ -1980,7 +1980,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: la.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/la.png}}:0..3@20"
                 }
             }
         },
@@ -2000,7 +2000,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: ladyfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/ladyfish.png}}:0..3@20"
                 }
             }
         },
@@ -2020,7 +2020,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: lamprey.png}}:0..7@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/lamprey.png}}:0..7@20"
                 }
             }
         },
@@ -2040,7 +2040,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: lionhead.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/lionhead.png}}:0..3@20"
                 }
             }
         },
@@ -2060,7 +2060,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: longfinicedevil.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/longfinicedevil.png}}:0..3@20"
                 }
             }
         },
@@ -2080,7 +2080,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: longnosegar.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/longnosegar.png}}:0..3@20"
                 }
             }
         },
@@ -2100,7 +2100,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: lungfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/lungfish.png}}:0..3@20"
                 }
             }
         },
@@ -2120,7 +2120,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: mandarinfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/mandarinfish.png}}:0..3@20"
                 }
             }
         },
@@ -2140,7 +2140,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: mantaraypup.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/mantaraypup.png}}:0..3@20"
                 }
             }
         },
@@ -2160,7 +2160,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: maroonclownfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/maroonclownfish.png}}:0..3@20"
                 }
             }
         },
@@ -2180,7 +2180,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: mimicoctopus.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/mimicoctopus.png}}:0..3@20"
                 }
             }
         },
@@ -2200,7 +2200,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: monkfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/monkfish.png}}:0..3@20"
                 }
             }
         },
@@ -2220,7 +2220,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: moorishidol.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/moorishidol.png}}:0..3@20"
                 }
             }
         },
@@ -2240,7 +2240,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: mudskipper.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/mudskipper.png}}:0..3@20"
                 }
             }
         },
@@ -2260,7 +2260,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: mushu.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/mushu.png}}:0..3@20"
                 }
             }
         },
@@ -2280,7 +2280,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: nautilus.png}}:0..15@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/nautilus.png}}:0..15@20"
                 }
             }
         },
@@ -2300,7 +2300,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: orangeclownfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/orangeclownfish.png}}:0..3@20"
                 }
             }
         },
@@ -2320,7 +2320,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: ornateangelfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/ornateangelfish.png}}:0..3@20"
                 }
             }
         },
@@ -2340,7 +2340,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: pacu.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/pacu.png}}:0..3@20"
                 }
             }
         },
@@ -2360,7 +2360,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: pangasius.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/pangasius.png}}:0..3@20"
                 }
             }
         },
@@ -2380,7 +2380,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: pinkskunkclownfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/pinkskunkclownfish.png}}:0..3@20"
                 }
             }
         },
@@ -2400,7 +2400,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: piranha.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/piranha.png}}:0..3@20"
                 }
             }
         },
@@ -2420,7 +2420,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: pollock.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/pollock.png}}:0..3@20"
                 }
             }
         },
@@ -2440,7 +2440,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: prawn.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/prawn.png}}:0..3@20"
                 }
             }
         },
@@ -2460,7 +2460,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: redfreshwatershrimp.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/redfreshwatershrimp.png}}:0..3@20"
                 }
             }
         },
@@ -2480,7 +2480,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: redharlequinfreshwatershrimp.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/redharlequinfreshwatershrimp.png}}:0..3@20"
                 }
             }
         },
@@ -2500,7 +2500,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: redtailshark.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/redtailshark.png}}:0..3@20"
                 }
             }
         },
@@ -2520,7 +2520,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: ribboneel.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/ribboneel.png}}:0..3@20"
                 }
             }
         },
@@ -2540,7 +2540,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: robalo.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/robalo.png}}:0..3@20"
                 }
             }
         },
@@ -2560,7 +2560,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: royalangelfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/royalangelfish.png}}:0..3@20"
                 }
             }
         },
@@ -2580,7 +2580,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: royalstarfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/royalstarfish.png}}:0..3@20"
                 }
             }
         },
@@ -2600,7 +2600,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: saddlebackclownfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/saddlebackclownfish.png}}:0..3@20"
                 }
             }
         },
@@ -2620,7 +2620,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: sanddollar.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/sanddollar.png}}:0..3@20"
                 }
             }
         },
@@ -2640,7 +2640,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: sankekoi.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/sankekoi.png}}:0..3@20"
                 }
             }
         },
@@ -2660,7 +2660,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: sauger.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/sauger.png}}:0..3@20"
                 }
             }
         },
@@ -2680,7 +2680,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: seasnake.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/seasnake.png}}:0..3@20"
                 }
             }
         },
@@ -2700,7 +2700,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: sebaeclownfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/sebaeclownfish.png}}:0..3@20"
                 }
             }
         },
@@ -2720,7 +2720,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: shinidamachu.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/shinidamachu.png}}:0..3@20"
                 }
             }
         },
@@ -2740,7 +2740,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: shiroutsurikoi.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/shiroutsurikoi.png}}:0..3@20"
                 }
             }
         },
@@ -2760,7 +2760,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: siamesealgaeeater.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/siamesealgaeeater.png}}:0..3@20"
                 }
             }
         },
@@ -2780,7 +2780,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: skunkclownfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/skunkclownfish.png}}:0..3@20"
                 }
             }
         },
@@ -2800,7 +2800,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: smallgoblinshark.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/smallgoblinshark.png}}:0..3@20"
                 }
             }
         },
@@ -2820,7 +2820,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: smallmantaray.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/smallmantaray.png}}:0..3@20"
                 }
             }
         },
@@ -2840,7 +2840,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: smallswordfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/smallswordfish.png}}:0..3@20"
                 }
             }
         },
@@ -2860,7 +2860,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: snowballpleco.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/snowballpleco.png}}:0..3@20"
                 }
             }
         },
@@ -2880,7 +2880,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: soldierfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/soldierfish.png}}:0..3@20"
                 }
             }
         },
@@ -2900,7 +2900,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: spinydogfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/spinydogfish.png}}:0..3@20"
                 }
             }
         },
@@ -2920,7 +2920,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: spinydogfishpup.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/spinydogfishpup.png}}:0..3@20"
                 }
             }
         },
@@ -2940,7 +2940,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: squirrelfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/squirrelfish.png}}:0..3@20"
                 }
             }
         },
@@ -2960,7 +2960,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: starfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/starfish.png}}:0..3@20"
                 }
             }
         },
@@ -2980,7 +2980,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: stubbysquid.png}}:0..7@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/stubbysquid.png}}:0..7@20"
                 }
             }
         },
@@ -3000,7 +3000,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: swimmercrab.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/swimmercrab.png}}:0..3@20"
                 }
             }
         },
@@ -3020,7 +3020,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: tanchokoi.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/tanchokoi.png}}:0..3@20"
                 }
             }
         },
@@ -3040,7 +3040,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: telescope.png}}:0..6@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/telescope.png}}:0..6@20"
                 }
             }
         },
@@ -3060,7 +3060,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: tench.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/tench.png}}:0..3@20"
                 }
             }
         },
@@ -3080,7 +3080,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: threadsailfilefish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/threadsailfilefish.png}}:0..3@20"
                 }
             }
         },
@@ -3100,7 +3100,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: threespotangelfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/threespotangelfish.png}}:0..3@20"
                 }
             }
         },
@@ -3120,7 +3120,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: tigerfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/tigerfish.png}}:0..3@20"
                 }
             }
         },
@@ -3140,7 +3140,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: tigerpuffer.png}}:0..11@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/tigerpuffer.png}}:0..11@20"
                 }
             }
         },
@@ -3160,7 +3160,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: trahira.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/trahira.png}}:0..3@20"
                 }
             }
         },
@@ -3180,7 +3180,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: trappedsoul.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/trappedsoul.png}}:0..3@20"
                 }
             }
         },
@@ -3200,7 +3200,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: tucunare.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/tucunare.png}}:0..3@20"
                 }
             }
         },
@@ -3220,7 +3220,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: tui.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/tui.png}}:0..3@20"
                 }
             }
         },
@@ -3240,7 +3240,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: twobandclownfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/twobandclownfish.png}}:0..3@20"
                 }
             }
         },
@@ -3260,7 +3260,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: vampirefish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/vampirefish.png}}:0..3@20"
                 }
             }
         },
@@ -3280,7 +3280,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: vampiresquid.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/vampiresquid.png}}:0..3@20"
                 }
             }
         },
@@ -3300,7 +3300,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: voidalgae.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/voidalgae.png}}:0..3@20"
                 }
             }
         },
@@ -3320,7 +3320,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: voidcarp.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/voidcarp.png}}:0..3@20"
                 }
             }
         },
@@ -3340,7 +3340,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: voidevilpus.png}}:0..15@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/voidevilpus.png}}:0..15@20"
                 }
             }
         },
@@ -3360,7 +3360,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: watersnake.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/watersnake.png}}:0..3@20"
                 }
             }
         },
@@ -3380,7 +3380,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: whitesnoutclownfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/whitesnoutclownfish.png}}:0..3@20"
                 }
             }
         },
@@ -3400,7 +3400,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: widebandclownfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/widebandclownfish.png}}:0..3@20"
                 }
             }
         },
@@ -3420,7 +3420,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: wolffish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/wolffish.png}}:0..3@20"
                 }
             }
         },
@@ -3440,7 +3440,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: yamabukikoi.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/yamabukikoi.png}}:0..3@20"
                 }
             }
         },
@@ -3460,7 +3460,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: yellowtailclownfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/yellowtailclownfish.png}}:0..3@20"
                 }
             }
         },
@@ -3480,7 +3480,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: zebraeel.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/zebraeel.png}}:0..3@20"
                 }
             }
         },
@@ -3500,7 +3500,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: zebratilapia.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/zebratilapia.png}}:0..3@20"
                 }
             }
         }
