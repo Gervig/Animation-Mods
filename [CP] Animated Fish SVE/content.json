@@ -1,157 +1,158 @@
 {
+    "$schema": "https://smapi.io/schemas/content-patcher.json",
     "ConfigSchema": {
         "Butterfish": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "BabyLunaloo": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Bonefish": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "BullTrout": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Clownfish": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Daggerfish": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "DulseSeaweed": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Frog": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Gemfish": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Goldenfish": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "GrassCarp": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "KingSalmon": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Kittyfish": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Lunaloo": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "MeteorCarp": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Minnow": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Puppyfish": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "RadioactiveBass": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "RazorTrout": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Seahorse": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "SeaSponge": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "ShinyLunaloo": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "SnatcherWorm": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Starfish": {
             "AllowValues": "true,false",
             "Default": "false",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Starfish2": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "TorpedoTrout": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Undeadfish": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "VoidEel": {
             "AllowValues": "true,false",
             "Default": "false",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "VoidEel2": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "WaterGrub": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         }
     },
-    "Format": "2.0",
+    "Format": "2.4.0",
     "Changes": [
         {
             "LogName": "Baby Lunaloo",
