@@ -287,7 +287,7 @@
             "AllowMultiple": false
         }
     },
-    "Format": "2.0",
+    "Format": "2.4.0",
     "Changes": [
         {
             "LogName": "1000 Years From Now",
