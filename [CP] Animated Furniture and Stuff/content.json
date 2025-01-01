@@ -310,7 +310,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: 1000yearsfromnow.png}}:0..31@25"
+                    "SourceTexture": "{{InternalAssetKey: assets/1000yearsfromnow.png}}:0..31@25"
                 }
             }
         },
@@ -330,7 +330,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: anightoneco-hill.png}}:0..15@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/anightoneco-hill.png}}:0..15@20"
                 }
             }
         },
@@ -350,7 +350,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: burntoffering.png}}:0..48@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/assets/burntoffering.png}}:0..48@15"
                 }
             }
         },
@@ -370,7 +370,7 @@
                         "Width": 32,
                         "Height": 48
                     },
-                    "SourceTexture": "{{InternalAssetKey: candytable.png}}:0..1@200"
+                    "SourceTexture": "{{InternalAssetKey: assets/assets/candytable.png}}:0..1@200"
                 }
             }
         },
@@ -390,7 +390,7 @@
                         "Width": 48,
                         "Height": 80
                     },
-                    "SourceTexture": "{{InternalAssetKey: christmastree1.png}}:0..19@60"
+                    "SourceTexture": "{{InternalAssetKey: assets/christmastree1.png}}:0..19@60"
                 }
             }
         },
@@ -410,7 +410,7 @@
                         "Width": 48,
                         "Height": 80
                     },
-                    "SourceTexture": "{{InternalAssetKey: christmastree2.png}}:0..11@60"
+                    "SourceTexture": "{{InternalAssetKey: assets/christmastree2.png}}:0..11@60"
                 }
             }
         },
@@ -430,7 +430,7 @@
                         "Width": 16,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: chickenstatue.png}}:0..3@400"
+                    "SourceTexture": "{{InternalAssetKey: assets/chickenstatue.png}}:0..3@400"
                 }
             }
         },
@@ -450,7 +450,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: clouds.png}}:0..74@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/clouds.png}}:0..74@15"
                 }
             }
         },
@@ -470,7 +470,7 @@
                         "Width": 16,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: crystalchair1.png}}:0..11@30"
+                    "SourceTexture": "{{InternalAssetKey: assets/crystalchair1.png}}:0..11@30"
                 }
             }
         },
@@ -490,7 +490,7 @@
                         "Width": 16,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: crystalchair2.png}}:0..11@30"
+                    "SourceTexture": "{{InternalAssetKey: assets/crystalchair2.png}}:0..11@30"
                 }
             }
         },
@@ -510,7 +510,7 @@
                         "Width": 16,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: crystalchair3.png}}:0..11@30"
+                    "SourceTexture": "{{InternalAssetKey: assets/crystalchair3.png}}:0..11@30"
                 }
             }
         },
@@ -530,7 +530,7 @@
                         "Width": 48,
                         "Height": 80
                     },
-                    "SourceTexture": "{{InternalAssetKey: deluxetree.png}}:0..79@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/deluxetree.png}}:0..79@10"
                 }
             }
         },
@@ -550,7 +550,7 @@
                         "Width": 48,
                         "Height": 80
                     },
-                    "SourceTexture": "{{InternalAssetKey: exotictree.png}}:0..79@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/exotictree.png}}:0..79@10"
                 }
             }
         },
@@ -570,7 +570,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: fishbowl.png}}:0..27@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/fishbowl.png}}:0..27@10"
                 }
             }
         },
@@ -590,7 +590,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: globe.png}}:0..24@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/globe.png}}:0..24@10"
                 }
             }
         },
@@ -610,7 +610,7 @@
                         "Width": 16,
                         "Height": 48
                     },
-                    "SourceTexture": "{{InternalAssetKey: greenserpentstatue.png}}:0..9@40"
+                    "SourceTexture": "{{InternalAssetKey: assets/greenserpentstatue.png}}:0..9@40"
                 }
             }
         },
@@ -630,7 +630,7 @@
                         "Width": 16,
                         "Height": 48
                     },
-                    "SourceTexture": "{{InternalAssetKey: industrialpipe.png}}:0..35@6"
+                    "SourceTexture": "{{InternalAssetKey: assets/industrialpipe.png}}:0..35@6"
                 }
             }
         },
@@ -650,7 +650,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: jackolantern.png}}:0..8@45"
+                    "SourceTexture": "{{InternalAssetKey: assets/jackolantern.png}}:0..8@45"
                 }
             }
         },
@@ -670,7 +670,7 @@
                         "Width": 48,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: jadehills.png}}:0..74@60"
+                    "SourceTexture": "{{InternalAssetKey: assets/jadehills.png}}:0..74@60"
                 }
             }
         },
@@ -690,7 +690,7 @@
                         "Width": 48,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: jojacolalight.png}}:0..11@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/jojacolalight.png}}:0..11@20"
                 }
             }
         },
@@ -710,7 +710,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: junimoplush.png}}:0..23@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/junimoplush.png}}:0..23@10"
                 }
             }
         },
@@ -730,7 +730,7 @@
                         "Width": 32,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: l.lightstring.png}}:0..23@60"
+                    "SourceTexture": "{{InternalAssetKey: assets/l.lightstring.png}}:0..23@60"
                 }
             }
         },
@@ -750,7 +750,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: landofclay.png}}:0..49@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/landofclay.png}}:0..49@10"
                 }
             }
         },
@@ -770,7 +770,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: lg.futanbear.png}}:0..31@60"
+                    "SourceTexture": "{{InternalAssetKey: assets/lg.futanbear.png}}:0..31@60"
                 }
             }
         },
@@ -790,7 +790,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: modelship.png}}:0..9@40"
+                    "SourceTexture": "{{InternalAssetKey: assets/modelship.png}}:0..9@40"
                 }
             }
         },
@@ -810,7 +810,7 @@
                         "Width": 16,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: obsidianvase.png}}:0..19@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/obsidianvase.png}}:0..19@20"
                 }
             }
         },
@@ -830,7 +830,7 @@
                         "Width": 48,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: patchworkrug1.png}}:0..5@100"
+                    "SourceTexture": "{{InternalAssetKey: assets/patchworkrug1.png}}:0..5@100"
                 }
             }
         },
@@ -850,7 +850,7 @@
                         "Width": 32,
                         "Height": 48
                     },
-                    "SourceTexture": "{{InternalAssetKey: patchworkrug2.png}}:0..5@100"
+                    "SourceTexture": "{{InternalAssetKey: assets/patchworkrug2.png}}:0..5@100"
                 }
             }
         },
@@ -870,7 +870,7 @@
                         "Width": 48,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: patchworkrug3.png}}:0..11@96"
+                    "SourceTexture": "{{InternalAssetKey: assets/patchworkrug3.png}}:0..11@96"
                 }
             }
         },
@@ -890,7 +890,7 @@
                         "Width": 32,
                         "Height": 48
                     },
-                    "SourceTexture": "{{InternalAssetKey: patchworkrug4.png}}:0..11@96"
+                    "SourceTexture": "{{InternalAssetKey: assets/patchworkrug4.png}}:0..11@96"
                 }
             }
         },
@@ -910,7 +910,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: portraitofamermaid.png}}:0..32@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/portraitofamermaid.png}}:0..32@10"
                 }
             }
         },
@@ -930,7 +930,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: pirateflag.png}}:0..3@40"
+                    "SourceTexture": "{{InternalAssetKey: assets/pirateflag.png}}:0..3@40"
                 }
             }
         },
@@ -950,7 +950,7 @@
                         "Width": 16,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: plushbunny.png}}:0..9@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/plushbunny.png}}:0..9@20"
                 }
             }
         },
@@ -970,7 +970,7 @@
                         "Width": 16,
                         "Height": 48
                     },
-                    "SourceTexture": "{{InternalAssetKey: purpleserpentstatue.png}}:0..9@40"
+                    "SourceTexture": "{{InternalAssetKey: assets/purpleserpentstatue.png}}:0..9@40"
                 }
             }
         },
@@ -990,7 +990,7 @@
                         "Width": 32,
                         "Height": 48
                     },
-                    "SourceTexture": "{{InternalAssetKey: puzzletable.png}}:0..3@400"
+                    "SourceTexture": "{{InternalAssetKey: assets/puzzletable.png}}:0..3@400"
                 }
             }
         },
@@ -1010,7 +1010,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: redeagle.png}}:0..49@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/redeagle.png}}:0..49@20"
                 }
             }
         },
@@ -1030,7 +1030,7 @@
                         "Width": 16,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: singingstone.png}}:0..34@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/singingstone.png}}:0..34@10"
                 }
             }
         },
@@ -1050,7 +1050,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: smallcrystal.png}}:0..11@60"
+                    "SourceTexture": "{{InternalAssetKey: assets/smallcrystal.png}}:0..11@60"
                 }
             }
         },
@@ -1070,7 +1070,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: smalljunimoplushblue.png}}:0..63@64"
+                    "SourceTexture": "{{InternalAssetKey: assets/smalljunimoplushblue.png}}:0..63@64"
                 }
             }
         },
@@ -1090,7 +1090,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: smalljunimoplushpink.png}}:0..33@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/smalljunimoplushpink.png}}:0..33@10"
                 }
             }
         },
@@ -1110,7 +1110,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: smalljunimoplushyellow.png}}:0..13@7"
+                    "SourceTexture": "{{InternalAssetKey: assets/smalljunimoplushyellow.png}}:0..13@7"
                 }
             }
         },
@@ -1130,7 +1130,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: smalljunimoplushgreen.png}}:0..19@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/smalljunimoplushgreen.png}}:0..19@10"
                 }
             }
         },
@@ -1150,7 +1150,7 @@
                         "Width": 16,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: smallwallpumpkin.png}}:0..4@60"
+                    "SourceTexture": "{{InternalAssetKey: assets/smallwallpumpkin.png}}:0..4@60"
                 }
             }
         },
@@ -1170,7 +1170,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: solarkingdom.png}}:0..74@60"
+                    "SourceTexture": "{{InternalAssetKey: assets/solarkingdom.png}}:0..74@60"
                 }
             }
         },
@@ -1190,7 +1190,7 @@
                         "Width": 16,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: standinggeode.png}}:0..43@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/standinggeode.png}}:0..43@15"
                 }
             }
         },
@@ -1210,7 +1210,7 @@
                         "Width": 16,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: stardewherotrophy.png}}:0..13@30"
+                    "SourceTexture": "{{InternalAssetKey: assets/stardewherotrophy.png}}:0..13@30"
                 }
             }
         },
@@ -1230,7 +1230,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: threetrees.png}}:0..36@30"
+                    "SourceTexture": "{{InternalAssetKey: assets/threetrees.png}}:0..36@30"
                 }
             }
         },
@@ -1250,7 +1250,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: theserpent.png}}:0..74@30"
+                    "SourceTexture": "{{InternalAssetKey: assets/theserpent.png}}:0..74@30"
                 }
             }
         },
@@ -1270,7 +1270,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: tropicalfish#137.png}}:0..75@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/tropicalfish#137.png}}:0..75@20"
                 }
             }
         },
@@ -1290,7 +1290,7 @@
                         "Width": 16,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: wallpumpkin.png}}:0..4@60"
+                    "SourceTexture": "{{InternalAssetKey: assets/wallpumpkin.png}}:0..4@60"
                 }
             }
         },
@@ -1310,7 +1310,7 @@
                         "Width": 32,
                         "Height": 48
                     },
-                    "SourceTexture": "{{InternalAssetKey: bobostatue.png}}:0..31@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/bobostatue.png}}:0..31@10"
                 }
             }
         },
@@ -1330,7 +1330,7 @@
                         "Width": 16,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: dancinggrass.png}}:0..20@6"
+                    "SourceTexture": "{{InternalAssetKey: assets/dancinggrass.png}}:0..20@6"
                 }
             }
         },
@@ -1350,7 +1350,7 @@
                         "Width": 16,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: endlessfortune.png}}:0..15@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/endlessfortune.png}}:0..15@10"
                 }
             }
         },
@@ -1370,7 +1370,7 @@
                         "Width": 16,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: goldlewis.png}}:0..35@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/goldlewis.png}}:0..35@10"
                 }
             }
         },
@@ -1390,7 +1390,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: highway89.png}}:0..11@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/highway89.png}}:0..11@10"
                 }
             }
         },
@@ -1410,7 +1410,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: kitemaster95.png}}:0..50@6"
+                    "SourceTexture": "{{InternalAssetKey: assets/kitemaster95.png}}:0..50@6"
                 }
             }
         },
@@ -1430,7 +1430,7 @@
                         "Width": 16,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: stonejunimo.png}}:0..199@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/stonejunimo.png}}:0..199@10"
                 }
             }
         },
@@ -1450,7 +1450,7 @@
                         "Width": 16,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: perfection.png}}:0..15@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/perfection.png}}:0..15@10"
                 }
             }
         },
@@ -1470,7 +1470,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: primalmotion.png}}:0..24@6"
+                    "SourceTexture": "{{InternalAssetKey: assets/primalmotion.png}}:0..24@6"
                 }
             }
         },
@@ -1490,7 +1490,7 @@
                         "Width": 48,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: queenofthegemsea.png}}:0..59@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/queenofthegemsea.png}}:0..59@10"
                 }
             }
         },
@@ -1510,7 +1510,7 @@
                         "Width": 16,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: signofthevessel.png}}:0..31@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/signofthevessel.png}}:0..31@10"
                 }
             }
         },
@@ -1530,7 +1530,7 @@
                         "Width": 32,
                         "Height": 48
                     },
-                    "SourceTexture": "{{InternalAssetKey: wumbusstatue.png}}:0..35@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/wumbusstatue.png}}:0..35@10"
                 }
             }
         }
