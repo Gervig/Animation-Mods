@@ -135,7 +135,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: arctic_shard.png}}:0..9@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/arctic_shard.png}}:0..9@20"
                 }
             }
         },
@@ -155,7 +155,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: blueslimeegg.png}}:0..9@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/blueslimeegg.png}}:0..9@20"
                 }
             }
         },
@@ -175,7 +175,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: ectoplasm.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/ectoplasm.png}}:0..3@20"
                 }
             }
         },
@@ -195,7 +195,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: galaxy_soul.png}}:0..23@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/galaxy_soul.png}}:0..23@10"
                 }
             }
         },
@@ -215,7 +215,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: golden_coconut.png}}:0..11@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/golden_coconut.png}}:0..11@15"
                 }
             }
         },
@@ -235,7 +235,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: golden_egg.png}}:0..9@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/golden_egg.png}}:0..9@20"
                 }
             }
         },
@@ -255,7 +255,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: goldenpumpkin.png}}:0..21@5"
+                    "SourceTexture": "{{InternalAssetKey: assets/goldenpumpkin.png}}:0..21@5"
                 }
             }
         },
@@ -275,7 +275,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: greenslimeegg.png}}:0..9@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/greenslimeegg.png}}:0..9@20"
                 }
             }
         },
@@ -295,7 +295,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: health_heart.png}}:0..7@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/health_heart.png}}:0..7@10"
                 }
             }
         },
@@ -315,7 +315,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: pearl.png}}:0..13@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/pearl.png}}:0..13@10"
                 }
             }
         },
@@ -335,7 +335,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: pearl2.png}}:0..13@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/pearl2.png}}:0..13@10"
                 }
             }
         },
@@ -355,7 +355,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: prismatic_jelly.png}}:0..23@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/prismatic_jelly.png}}:0..23@10"
                 }
             }
         },
@@ -375,7 +375,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: purpleslimeegg.png}}:0..9@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/purpleslimeegg.png}}:0..9@20"
                 }
             }
         },
@@ -395,7 +395,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: qi_gem.png}}:0..11@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/qi_gem.png}}:0..11@15"
                 }
             }
         },
@@ -415,7 +415,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: redslimeegg.png}}:0..9@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/redslimeegg.png}}:0..9@20"
                 }
             }
         },
@@ -435,7 +435,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: slime1.png}}:0..16@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/slime1.png}}:0..16@10"
                 }
             }
         },
@@ -455,7 +455,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: slime2.png}}:0..16@10"
+                    "SourceTexture": "{{InternalAssetKey: assets/slime2.png}}:0..16@10"
                 }
             }
         },
@@ -475,7 +475,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: solaressence.png}}:0..10@6"
+                    "SourceTexture": "{{InternalAssetKey: assets/solaressence.png}}:0..10@6"
                 }
             }
         },
@@ -495,7 +495,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: tiger_slime_egg.png}}:0..9@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/tiger_slime_egg.png}}:0..9@20"
                 }
             }
         },
@@ -515,7 +515,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: treasurechest1.png}}:0..21@6"
+                    "SourceTexture": "{{InternalAssetKey: assets/treasurechest1.png}}:0..21@6"
                 }
             }
         },
@@ -535,7 +535,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: treasurechest2.png}}:0..19@6"
+                    "SourceTexture": "{{InternalAssetKey: assets/treasurechest2.png}}:0..19@6"
                 }
             }
         },
@@ -555,7 +555,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: voidessence.png}}:0..9@12"
+                    "SourceTexture": "{{InternalAssetKey: assets/voidessence.png}}:0..9@12"
                 }
             }
         },
@@ -575,7 +575,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: wriggling_worm.png}}:0..5@12"
+                    "SourceTexture": "{{InternalAssetKey: assets/wriggling_worm.png}}:0..5@12"
                 }
             }
         }
