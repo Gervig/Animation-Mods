@@ -350,7 +350,7 @@
                         "Width": 32,
                         "Height": 32
                     },
-                    "SourceTexture": "{{InternalAssetKey: assets/assets/burntoffering.png}}:0..48@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/burntoffering.png}}:0..48@15"
                 }
             }
         },
@@ -370,7 +370,7 @@
                         "Width": 32,
                         "Height": 48
                     },
-                    "SourceTexture": "{{InternalAssetKey: assets/assets/candytable.png}}:0..1@200"
+                    "SourceTexture": "{{InternalAssetKey: assets/candytable.png}}:0..1@200"
                 }
             }
         },
