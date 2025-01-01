@@ -45,7 +45,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: dewdrop_fish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/dewdrop_fish.png}}:0..3@20"
                 }
             }
         },
@@ -65,7 +65,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: purple_spotted_trout.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/purple_spotted_trout.png}}:0..3@20"
                 }
             }
         },
@@ -85,7 +85,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: relicantlette.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/relicantlette.png}}:0..3@20"
                 }
             }
         },
@@ -105,7 +105,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: serafin.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/serafin.png}}:0..3@20"
                 }
             }
         },
@@ -125,7 +125,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: umuwi_carp.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/umuwi_carp.png}}:0..3@20"
                 }
             }
         }
