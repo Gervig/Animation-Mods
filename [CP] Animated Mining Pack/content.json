@@ -1,502 +1,503 @@
 {
+    "$schema": "https://smapi.io/schemas/content-patcher.json",
     "ConfigSchema": {
         "Aerinite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Alemite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Amethyst": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "AmethystNode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Aquamarine": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "AquamarineNode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "ArtifactTrove": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Baryte": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Basalt": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Bixite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Calcite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Celestine": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "CinderShard": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "CinderShardNode1": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "CinderShardNode2": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "CopperBar": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "CopperNode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "CopperNode2": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "CopperOre": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Crystal1": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Crystal2": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Crystal3": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Diamond": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "DiamondNode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Dolomite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "DragonTooth": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "EarthCrystal": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Emerald": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "EmeraldNode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Esperite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "FairyStone": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "FireOpal": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "FireQuartz": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Fluorapatite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "FrozenGeode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "FrozenGeodeNode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "FrozenTear": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Geminite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "GemNode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Geode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "GeodeNode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "GhostCrystal": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "GoldBar": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "GoldNode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "GoldOre": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Granite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Helvite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Hermatite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "IridiumBar": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "IridiumNode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "IridiumOre": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "IronBar": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "IronNode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "IronNode2": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "IronOre": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Jade": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "JadeNode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Jagoite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Jamborite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Jasper": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Kyanite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "LemonStone": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Limestone": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Lunarite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "MagmaGeode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "MagmaGeodeNode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Malachite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Marble": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Meteorite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Mudstone": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "MysticStone": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Nekoite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Neptunite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Obsidian": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "OceanStone": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "OmniGeode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "OmniGeodeNode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Opal": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Orpiment": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PetrifiedSlime": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PrismaticShard": {
             "AllowValues": "true,false",
             "Default": "false",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PrismaticShard2": {
             "AllowValues": "true,false",
             "Default": "false",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PrismaticShard3D": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Pyrite": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Quartz": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "RadioactiveOre": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "RadioactiveNode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "RadioactiveBar": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "RefinedQuartz": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Ruby": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "RubyNode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Sandstone": {
             "AllowValues": "true,false",
             "Default": "false",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Slate": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Soapstone": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "StarShards": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "ThunderEgg": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Tigerseye": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Topaz": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "TopazNode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         }
     },
-    "Format": "2.0",
+    "Format": "2.4.0",
     "Changes": [
         {
             "LogName": "Aerinite",
