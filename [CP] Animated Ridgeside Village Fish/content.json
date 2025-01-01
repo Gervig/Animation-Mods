@@ -1,5 +1,103 @@
 {
     "$schema": "https://smapi.io/schemas/content-patcher.json",
+    "ConfigSchema": {
+        "BladetailSturgeon": {
+            "AllowValues": "new,old,disabled",
+            "Default": "new",
+            "AllowMultiple": false
+        },
+        "CapedTreeFrog": {
+            "AllowValues": "new,old,disabled",
+            "Default": "new",
+            "AllowMultiple": false
+        },
+        "CardiaSeptalJellyfish": {
+            "AllowValues": "new,old,disabled",
+            "Default": "new",
+            "AllowMultiple": false
+        },
+        "CrimsonSpikedClam": {
+            "AllowValues": "new,old,disabled",
+            "Default": "new",
+            "AllowMultiple": false
+        },
+        "CutthroatTrout": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": false
+        },
+        "DeepRidgeAngler": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": false
+        },
+        "FairytaleLionfish": {
+            "AllowValues": "new,old,disabled",
+            "Default": "new",
+            "AllowMultiple": false
+        },
+        "FixerEel": {
+            "AllowValues": "new,old,disabled",
+            "Default": "new",
+            "AllowMultiple": false
+        },
+        "GoldenRoseFin": {
+            "AllowValues": "new,old,disabled",
+            "Default": "new",
+            "AllowMultiple": false
+        },
+        "HarvesterTrout": {
+            "AllowValues": "new,old,disabled",
+            "Default": "new",
+            "AllowMultiple": false
+        },
+        "LullabyCarp": {
+            "AllowValues": "new,old,disabled",
+            "Default": "new",
+            "AllowMultiple": false
+        },
+        "MountainRedbellyDace": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": false
+        },
+        "MountainWhitefish": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": false
+        },
+        "PebbleBackCrab": {
+            "AllowValues": "new,old,disabled",
+            "Default": "new",
+            "AllowMultiple": false
+        },
+        "RidgeBluegill": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": false
+        },
+        "RidgesideBass": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": false
+        },
+        "SkulpinFish": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": false
+        },
+        "SockeyeSalmon": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": false
+        },
+        "WaterfallSnakehead": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "AllowMultiple": false
+        }
+    },
+    "Format": "2.4.0",
     "Changes": [
         {
             "LogName": "Bladetail Sturgeon Old",
@@ -9,7 +107,7 @@
                 "BladetailSturgeon": "old"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Bladetail Sturgeon Old": {
+                "Gervig91.AnimatedRSVFish_BladetailSturgeonOld": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 112,
@@ -29,7 +127,7 @@
                 "BladetailSturgeon": "new"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Bladetail Sturgeon New": {
+                "Gervig91.AnimatedRSVFish_BladetailSturgeonNew": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 112,
@@ -49,7 +147,7 @@
                 "CapedTreeFrog": "old"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Caped Tree Frog Old": {
+                "Gervig91.AnimatedRSVFish_CapedTreeFrogOld": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 128,
@@ -69,7 +167,7 @@
                 "CapedTreeFrog": "new"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Caped Tree Frog New": {
+                "Gervig91.AnimatedRSVFish_CapedTreeFrogNew": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 128,
@@ -89,7 +187,7 @@
                 "CardiaSeptalJellyfish": "old"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Cardia Septal Jellyfish Old": {
+                "Gervig91.AnimatedRSVFish_CardiaSeptalJellyfishOld": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 144,
@@ -109,7 +207,7 @@
                 "CardiaSeptalJellyfish": "new"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Cardia Septal Jellyfish New": {
+                "Gervig91.AnimatedRSVFish_CardiaSeptalJellyfishNew": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 144,
@@ -129,7 +227,7 @@
                 "CrimsonSpikedClam": "old"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Crimson Spiked Clam Old": {
+                "Gervig91.AnimatedRSVFish_CrimsonSpikedClamOld": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 224,
@@ -149,7 +247,7 @@
                 "CrimsonSpikedClam": "new"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Crimson Spiked Clam New": {
+                "Gervig91.AnimatedRSVFish_CrimsonSpikedClamNew": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 224,
@@ -166,10 +264,10 @@
             "Action": "EditData",
             "Target": "spacechase0.SpaceCore/TextureOverrides",
             "When": {
-                "CutthroatTrout": "true"
+                "CutthroatTrout": true
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Cutthroat Trout": {
+                "Gervig91.AnimatedRSVFish_CutthroatTrout": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 256,
@@ -189,7 +287,7 @@
                 "DeepRidgeAngler": true
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Deep Ridge Angler": {
+                "Gervig91.AnimatedRSVFish_DeepRidgeAngler": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 272,
@@ -209,7 +307,7 @@
                 "FairytaleLionfish": "old"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Fairytale Lionfish Old": {
+                "Gervig91.AnimatedRSVFish_FairytaleLionfishOld": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 368,
@@ -229,7 +327,7 @@
                 "FairytaleLionfish": "new"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Fairytale Lionfish New": {
+                "Gervig91.AnimatedRSVFish_FairytaleLionfishNew": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 368,
@@ -249,7 +347,7 @@
                 "FixerEel": "old"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Fixer Eel Old": {
+                "Gervig91.AnimatedRSVFish_FixerEelOld": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 0,
@@ -269,7 +367,7 @@
                 "FixerEel": "new"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Fixer Eel New": {
+                "Gervig91.AnimatedRSVFish_FixerEelNew": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 0,
@@ -289,7 +387,7 @@
                 "GoldenRoseFin": "old"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Golden Rose Fin Old": {
+                "Gervig91.AnimatedRSVFish_GoldenRoseFinOld": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 208,
@@ -309,7 +407,7 @@
                 "GoldenRoseFin": "new"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Golden Rose Fin New": {
+                "Gervig91.AnimatedRSVFish_GoldenRoseFinNew": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 208,
@@ -329,7 +427,7 @@
                 "HarvesterTrout": "old"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Harvester Trout Old": {
+                "Gervig91.AnimatedRSVFish_HarvesterTroutOld": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 240,
@@ -349,7 +447,7 @@
                 "HarvesterTrout": "new"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Harvester Trout New": {
+                "Gervig91.AnimatedRSVFish_HarvesterTroutNew": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 240,
@@ -369,7 +467,7 @@
                 "LullabyCarp": "old"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Lullaby Carp Old": {
+                "Gervig91.AnimatedRSVFish_LullabyCarpOld": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 160,
@@ -389,7 +487,7 @@
                 "LullabyCarp": "new"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Lullaby Carp New": {
+                "Gervig91.AnimatedRSVFish_LullabyCarpNew": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 160,
@@ -409,7 +507,7 @@
                 "MountainRedbellyDace": true
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Mountain Redbelly Dace": {
+                "Gervig91.AnimatedRSVFish_MountainRedbellyDace": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 304,
@@ -429,7 +527,7 @@
                 "MountainWhitefish": true
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Mountain Whitefish": {
+                "Gervig91.AnimatedRSVFish_MountainWhitefish": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 320,
@@ -449,7 +547,7 @@
                 "PebbleBackCrab": "old"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Pebble Back Crab Old": {
+                "Gervig91.AnimatedRSVFish_PebbleBackCrabOld": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 48,
@@ -469,7 +567,7 @@
                 "PebbleBackCrab": "new"
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Pebble Back Crab New": {
+                "Gervig91.AnimatedRSVFish_PebbleBackCrabNew": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 48,
@@ -489,7 +587,7 @@
                 "RidgeBluegill": true
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Ridge Bluegill": {
+                "Gervig91.AnimatedRSVFish_RidgeBluegill": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 176,
@@ -509,7 +607,7 @@
                 "RidgesideBass": true
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Ridgeside Bass": {
+                "Gervig91.AnimatedRSVFish_RidgesideBass": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 256,
@@ -529,7 +627,7 @@
                 "SkulpinFish": true
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Skulpin Fish": {
+                "Gervig91.AnimatedRSVFish_SkulpinFish": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 0,
@@ -549,7 +647,7 @@
                 "SockeyeSalmon": true
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Sockeye Salmon": {
+                "Gervig91.AnimatedRSVFish_SockeyeSalmon": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 48,
@@ -569,7 +667,7 @@
                 "WaterfallSnakehead": true
             },
             "Entries": {
-                "Gervig91.AnimatedRSVFish_Waterfall Snakehead": {
+                "Gervig91.AnimatedRSVFish_WaterfallSnakehead": {
                     "TargetTexture": "Mods/Rafseazz.RSVCP/Objects/Objects",
                     "TargetRect": {
                         "X": 256,
@@ -581,102 +679,5 @@
                 }
             }
         }
-    ],
-    "ConfigSchema": {
-        "BladetailSturgeon": {
-            "AllowValues": "new,old,disabled",
-            "Default": "new",
-            "AllowMultiple": "false"
-        },
-        "CapedTreeFrog": {
-            "AllowValues": "new,old,disabled",
-            "Default": "new",
-            "AllowMultiple": "false"
-        },
-        "CardiaSeptalJellyfish": {
-            "AllowValues": "new,old,disabled",
-            "Default": "new",
-            "AllowMultiple": "false"
-        },
-        "CrimsonSpikedClam": {
-            "AllowValues": "new,old,disabled",
-            "Default": "new",
-            "AllowMultiple": "false"
-        },
-        "CutthroatTrout": {
-            "AllowValues": "true,false",
-            "Default": "true",
-            "AllowMultiple": "false"
-        },
-        "DeepRidgeAngler": {
-            "AllowValues": "true,false",
-            "Default": "true",
-            "AllowMultiple": "false"
-        },
-        "FairytaleLionfish": {
-            "AllowValues": "new,old,disabled",
-            "Default": "new",
-            "AllowMultiple": "false"
-        },
-        "FixerEel": {
-            "AllowValues": "new,old,disabled",
-            "Default": "new",
-            "AllowMultiple": "false"
-        },
-        "GoldenRoseFin": {
-            "AllowValues": "new,old,disabled",
-            "Default": "new",
-            "AllowMultiple": "false"
-        },
-        "HarvesterTrout": {
-            "AllowValues": "new,old,disabled",
-            "Default": "new",
-            "AllowMultiple": "false"
-        },
-        "LullabyCarp": {
-            "AllowValues": "new,old,disabled",
-            "Default": "new",
-            "AllowMultiple": "false"
-        },
-        "MountainRedbellyDace": {
-            "AllowValues": "true,false",
-            "Default": "true",
-            "AllowMultiple": "false"
-        },
-        "MountainWhitefish": {
-            "AllowValues": "true,false",
-            "Default": "true",
-            "AllowMultiple": "false"
-        },
-        "PebbleBackCrab": {
-            "AllowValues": "new,old,disabled",
-            "Default": "new",
-            "AllowMultiple": "false"
-        },
-        "RidgeBluegill": {
-            "AllowValues": "true,false",
-            "Default": "true",
-            "AllowMultiple": "false"
-        },
-        "RidgesideBass": {
-            "AllowValues": "true,false",
-            "Default": "true",
-            "AllowMultiple": "false"
-        },
-        "SkulpinFish": {
-            "AllowValues": "true,false",
-            "Default": "true",
-            "AllowMultiple": "false"
-        },
-        "SockeyeSalmon": {
-            "AllowValues": "true,false",
-            "Default": "true",
-            "AllowMultiple": "false"
-        },
-        "WaterfallSnakehead": {
-            "AllowValues": "true,false",
-            "Default": "true",
-            "AllowMultiple": "false"
-        }
-    }
+    ]
 }
