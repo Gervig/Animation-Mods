@@ -1,122 +1,123 @@
 {
+    "$schema": "https://smapi.io/schemas/content-patcher.json",
     "ConfigSchema": {
         "ArcticShard": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "BlueSlimeEgg": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Ectoplasm": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "GalaxySoul": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "GoldenCoconut": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "GoldenEgg": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "GoldenPumpkin": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "GreenSlimeEgg": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "HealthHeart": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Pearl1": {
             "AllowValues": "true,false",
             "Default": "false",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Pearl2": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PrismaticJelly": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PurpleSlimeEgg": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "QiGem": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "RedSlimeEgg": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Slime1": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Slime2": {
             "AllowValues": "true,false",
             "Default": "false",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "SolarEssence": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "TigerSlimeEgg": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "TreasureChest1": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "TreasureChest2": {
             "AllowValues": "true,false",
             "Default": "false",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "VoidEssence": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "WrigglingWorm": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         }
     },
-    "Format": "2.0",
+    "Format": "2.4.0",
     "Changes": [
         {
             "LogName": "ArcticShard",
