@@ -1,297 +1,298 @@
 {
+    "$schema": "https://smapi.io/schemas/content-patcher.json",
     "ConfigSchema": {
         "1000YearsFromNow": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "ANightOnEco-Hill": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "BurntOffering": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "CandyTable": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "ChristmasTree1": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "ChristmasTree2": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "ChickenStatue": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Clouds": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "CrystalChair": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "DeluxeTree": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "ExoticTree": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "FishBowl": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Globe": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "GreenSerpentStatue": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "IndustrialPipe": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Jack-O-Lantern": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "JadeHills": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "JojaColaLight": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "JunimoPlush": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "L.LightString": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "LandofClay": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Lg.FutanBear": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "ModelShip": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "ObsidianVase": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PatchworkRug1": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PatchworkRug2": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PictureofaMermaid": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PirateFlag": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PlushBunny": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PurpleSerpentStatue": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PuzzleTable": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "RedEagle": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "SingingStone": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "SmallCrystal": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "SmallJunimoBlue": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "SmallJunimoPink": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "SmallJunimoYellow": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "SmallJunimoGreen": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "SmallWallPumpkin": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "SolarKingdom": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "StandingGeode": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "StardewHeroTrophy": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "TheSerpent": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "ThreeTrees": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "TropicalFish#137": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "WallPumpkin": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "BoboStatue": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "DancingGrass": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "EndlessFortune": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "GoldLewis": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Highway89": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Kitemaster95": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "StoneJunimo": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "Perfection": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PrimalMotion": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "QueenOfTheGemSea": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "SignOfTheVessel": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "WumbusStatue": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         }
     },
-    "Format": "2.0",
+    "Format": "2.4.0",
     "Changes": [
         {
             "LogName": "1000 Years From Now",
