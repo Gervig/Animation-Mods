@@ -21,14 +21,9 @@
             "Default": "true",
             "AllowMultiple": false
         },
-        "ChristmasTree1": {
-            "AllowValues": "true,false",
-            "Default": "true",
-            "AllowMultiple": false
-        },
-        "ChristmasTree2": {
-            "AllowValues": "true,false",
-            "Default": "true",
+        "ChristmasTree": {
+            "AllowValues": "1,2,false",
+            "Default": "1",
             "AllowMultiple": false
         },
         "ChickenStatue": {
@@ -122,13 +117,13 @@
             "AllowMultiple": false
         },
         "PatchworkRug1": {
-            "AllowValues": "true,false",
-            "Default": "true",
+            "AllowValues": "1,2,false",
+            "Default": "1",
             "AllowMultiple": false
         },
         "PatchworkRug2": {
-            "AllowValues": "true,false",
-            "Default": "true",
+            "AllowValues": "1,2,false",
+            "Default": "1",
             "AllowMultiple": false
         },
         "PictureofaMermaid": {
@@ -292,7 +287,7 @@
             "AllowMultiple": false
         }
     },
-    "Format": "2.4.0",
+    "Format": "2.0",
     "Changes": [
         {
             "LogName": "1000 Years From Now",
@@ -379,10 +374,10 @@
             "Action": "EditData",
             "Target": "spacechase0.SpaceCore/TextureOverrides",
             "When": {
-                "ChristmasTree1": true
+                "ChristmasTree": 1
             },
             "Entries": {
-                "Gervig91.AnimatedFurnitureAndStuff_ChristmasTree1": {
+                "Gervig91.AnimatedFurnitureAndStuff_ChristmasTree": {
                     "TargetTexture": "TileSheets/furniture",
                     "TargetRect": {
                         "X": 0,
@@ -399,10 +394,10 @@
             "Action": "EditData",
             "Target": "spacechase0.SpaceCore/TextureOverrides",
             "When": {
-                "ChristmasTree2": true
+                "ChristmasTree": 2
             },
             "Entries": {
-                "Gervig91.AnimatedFurnitureAndStuff_ChristmasTree2": {
+                "Gervig91.AnimatedFurnitureAndStuff_ChristmasTree": {
                     "TargetTexture": "TileSheets/furniture",
                     "TargetRect": {
                         "X": 0,
@@ -413,7 +408,7 @@
                     "SourceTexture": "{{InternalAssetKey: assets/christmastree2.png}}:0..11@60"
                 }
             }
-        },
+        },        
         {
             "LogName": "Chicken Statue",
             "Action": "EditData",
@@ -819,7 +814,7 @@
             "Action": "EditData",
             "Target": "spacechase0.SpaceCore/TextureOverrides",
             "When": {
-                "PatchworkRug1": true
+                "PatchworkRug1": 1
             },
             "Entries": {
                 "Gervig91.AnimatedFurnitureAndStuff_PatchworkRug1": {
@@ -839,7 +834,7 @@
             "Action": "EditData",
             "Target": "spacechase0.SpaceCore/TextureOverrides",
             "When": {
-                "PatchworkRug1": true
+                "PatchworkRug2": 1
             },
             "Entries": {
                 "Gervig91.AnimatedFurnitureAndStuff_PatchworkRug2": {
@@ -859,7 +854,7 @@
             "Action": "EditData",
             "Target": "spacechase0.SpaceCore/TextureOverrides",
             "When": {
-                "PatchworkRug2": true
+                "PatchworkRug1": 2
             },
             "Entries": {
                 "Gervig91.AnimatedFurnitureAndStuff_PatchworkRug3": {
@@ -879,7 +874,7 @@
             "Action": "EditData",
             "Target": "spacechase0.SpaceCore/TextureOverrides",
             "When": {
-                "PatchworkRug2": true
+                "PatchworkRug2": 2
             },
             "Entries": {
                 "Gervig91.AnimatedFurnitureAndStuff_PatchworkRug4": {
