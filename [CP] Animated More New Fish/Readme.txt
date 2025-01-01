@@ -1,7 +1,7 @@
 Make sure to have the latest versions of the required mods:
 	- SMAPI
 	- Content Patcher
-	- Content Patcher Animations
+	- SpaceCore
 	- More New Fish
 	- and Mermaid Island (optional)
 
