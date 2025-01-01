@@ -115,7 +115,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: bladetail_sturgeon.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/bladetail_sturgeon.png}}:0..3@20"
                 }
             }
         },
@@ -135,7 +135,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: bladetail_sturgeon_new.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/bladetail_sturgeon_new.png}}:0..3@20"
                 }
             }
         },
@@ -155,7 +155,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: caped_tree_frog.png}}:0..9@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/caped_tree_frog.png}}:0..9@20"
                 }
             }
         },
@@ -175,7 +175,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: caped_tree_frog_new.png}}:0..9@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/caped_tree_frog_new.png}}:0..9@20"
                 }
             }
         },
@@ -195,7 +195,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: cardia_septal_jellyfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/cardia_septal_jellyfish.png}}:0..3@20"
                 }
             }
         },
@@ -215,7 +215,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: cardia_septal_jellyfish_new.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/cardia_septal_jellyfish_new.png}}:0..3@20"
                 }
             }
         },
@@ -235,7 +235,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: crimson_spiked_clam.png}}:0..13@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/crimson_spiked_clam.png}}:0..13@15"
                 }
             }
         },
@@ -255,7 +255,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: crimson_spiked_clam_new.png}}:0..13@15"
+                    "SourceTexture": "{{InternalAssetKey: assets/crimson_spiked_clam_new.png}}:0..13@15"
                 }
             }
         },
@@ -275,7 +275,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: cutthroat_trout.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/cutthroat_trout.png}}:0..3@20"
                 }
             }
         },
@@ -295,7 +295,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: deep_ridge_angler.png}}:0..5@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/deep_ridge_angler.png}}:0..5@20"
                 }
             }
         },
@@ -315,7 +315,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: fairytale_lionfish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/fairytale_lionfish.png}}:0..3@20"
                 }
             }
         },
@@ -335,7 +335,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: fairytale_lionfish_new.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/fairytale_lionfish_new.png}}:0..3@20"
                 }
             }
         },
@@ -355,7 +355,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: fixer_eel.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/fixer_eel.png}}:0..3@20"
                 }
             }
         },
@@ -375,7 +375,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: fixer_eel_new.png}}:0..5@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/fixer_eel_new.png}}:0..5@20"
                 }
             }
         },
@@ -395,7 +395,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: golden_rose_fin.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/golden_rose_fin.png}}:0..3@20"
                 }
             }
         },
@@ -415,7 +415,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: golden_rose_fin_new.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/golden_rose_fin_new.png}}:0..3@20"
                 }
             }
         },
@@ -435,7 +435,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: harvester_trout.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/harvester_trout.png}}:0..3@20"
                 }
             }
         },
@@ -455,7 +455,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: harvester_trout_new.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/harvester_trout_new.png}}:0..3@20"
                 }
             }
         },
@@ -475,7 +475,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: lullaby_carp.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/lullaby_carp.png}}:0..3@20"
                 }
             }
         },
@@ -495,7 +495,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: lullaby_carp_new.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/lullaby_carp_new.png}}:0..3@20"
                 }
             }
         },
@@ -515,7 +515,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: mountain_redbelly_dace.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/mountain_redbelly_dace.png}}:0..3@20"
                 }
             }
         },
@@ -535,7 +535,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: mountain_whitefish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/mountain_whitefish.png}}:0..3@20"
                 }
             }
         },
@@ -555,7 +555,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: pebble_back_crab.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/pebble_back_crab.png}}:0..3@20"
                 }
             }
         },
@@ -575,7 +575,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: pebble_back_crab_new.png}}:0..9@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/pebble_back_crab_new.png}}:0..9@20"
                 }
             }
         },
@@ -595,7 +595,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: ridge_bluegill.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/ridge_bluegill.png}}:0..3@20"
                 }
             }
         },
@@ -615,7 +615,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: ridgeside_bass.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/ridgeside_bass.png}}:0..3@20"
                 }
             }
         },
@@ -635,7 +635,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: skulpin_fish.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/skulpin_fish.png}}:0..3@20"
                 }
             }
         },
@@ -655,7 +655,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: sockeye_salmon.png}}:0..3@20"
+                    "SourceTexture": "{{InternalAssetKey: assets/sockeye_salmon.png}}:0..3@20"
                 }
             }
         },
@@ -675,7 +675,7 @@
                         "Width": 16,
                         "Height": 16
                     },
-                    "SourceTexture": "{{InternalAssetKey: waterfall_snakehead.png}}:0..11@30"
+                    "SourceTexture": "{{InternalAssetKey: assets/waterfall_snakehead.png}}:0..11@30"
                 }
             }
         }
