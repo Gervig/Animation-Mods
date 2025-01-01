@@ -1,132 +1,133 @@
 {
+    "$schema": "https://smapi.io/schemas/content-patcher.json",
     "ConfigSchema": {
         "DarkSword": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "ForestSword": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "InfinityBlade": {
             "AllowValues": "1,2,false",
             "Default": "2",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "InfinityDagger": {
             "AllowValues": "1,2,false",
             "Default": "2",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "InfinityHammer": {
             "AllowValues": "1,2,false",
             "Default": "2",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "InsectHead": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "LavaKatana": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "NeptunesGlaive": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "ObsidianEdge": {
             "AllowValues": "1,2,false",
             "Default": "1",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PrismaticGalaxyDagger": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PrismaticGalaxyHammer": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PrismaticGalaxySword": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PrismaticPickaxe": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PrismaticAxe": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PrismaticHoe": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PrismaticCan": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PrismaticScythe": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "ReturnScepter": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "SteelSmallsword": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "TemplarsSword": {
             "AllowValues": "1,2,false",
             "Default": "1",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PrismaticBar": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PrismaticSprinkler": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "DragontoothCutlass": {
             "AllowValues": "true,false",
             "Default": "true",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "DisablePrismaticToolsInventory": {
             "AllowValues": "true,false",
             "Default": "false",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         },
         "PrismaticScytheStatic": {
             "AllowValues": "true,false",
             "Default": "false",
-            "AllowMultiple": "false"
+            "AllowMultiple": false
         }
     },
-    "Format": "2.0",
+    "Format": "2.4.0",
     "Changes": [
         {
             "LogName": "Dark Sword",
