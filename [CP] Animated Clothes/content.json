@@ -112,20 +112,24 @@
       "AllowMultiple": "false"
     }
   },
+  "Format": "2.4.0",
   "Changes": [
     {
       "LogName": "Blue Cowboy Hat",
-      "Action": "EditImage",
+      "Action": "EditData",
       "Target": "spacechase0.SpaceCore/TextureOverrides",
-      "FromFile": "bluecowboyhat.png",
-      "TargetRect": {
-        "X": 0,
-        "Y": 0,
-        "Width": 20,
-        "Height": 80
-      },
       "When": {
         "BlueCowboyHat": "true"
+      },
+      "Entries": {
+        "TargetTexture": "Characters/Farmer/hats",
+        "TargetRect": {
+          "X": 0,
+          "Y": 0,
+          "Width": 20,
+          "Height": 80
+        },
+        "SourceTexture": "{{InternalAssetKey: assets/bluecowboyhat.png}}:0..7@10"
       }
     },
     {
